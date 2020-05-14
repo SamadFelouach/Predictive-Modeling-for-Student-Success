@@ -1,0 +1,403 @@
+,age,logement,filiere,endroit_travail,travail_equipe ,heure_dormir ,sport_par_sem,activites_para,rythme_formation ,compétences_enseignants ,communication_enseignants,méthodes_pédagogiques,etat_psychique_preparation ,etat_psychique_examen,resultat_etudiant,nombre_rattrapage,services_bibliothèques,transport_scolaire,orientation,ressources_materials,Mauvais_Gestion_temps,qualite_logement,addiction_drogues,mauvais_choix_de_cours,réseaux_sociaux,Barrieres_de_langage,l'entourage,gaming,Femme,Homme
+0,21,Interne,GI,Cafè,Non,00:00:00,2 fois,oui,correct,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Oui,Non,0,1
+1,18,Interne,CP1,La Bibliothèque,Non,02:00:00,5,Oui,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,normal,Normal,Non,5,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,Oui,0,1
+2,21,Interne,GI,Cafè,Oui,01:00:00,3 fois,Oui,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,Oui,0,Non,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,0,1
+3,18,Externe,CP2,Cafè,Oui,02:00:00,5,Oui,correct,faibles,Moyennement satisfait,Moyennement satisfait,normal,Pas mal,Non,1,Non,Oui,Non,Non,Non,Non,Non,Oui,Oui,Non,Non,Non,0,1
+4,21,Interne,GC,Chez moi,Oui,01:00:00,3 fois,Non,trop lent,faibles,Satisfait,Satisfait,normal,Normal,Oui,0,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Oui,Oui,Non,0,1
+5,20,Externe,CP2,Cafè,Oui,02:00:00,3 fois,Oui,correct,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,2,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Oui,Non,0,1
+6,22,Externe,GI,Cafè,Non,03:00:00,une fois,Non,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,4,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,0,1
+7,20,Interne,CP2,Chez moi,Oui,00:00:00,une fois,Non,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,4,Non,Non,Oui,Non,Non,Non,Non,Non,Oui,Non,Oui,Oui,0,1
+8,20,Interne,GI,Cafè,Non,02:00:00,jamais,Non,correct,faibles,Satisfait,Satisfait,Stressé,Stresse,Non,4,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,Non,0,1
+9,23,Interne,GI,Chez moi,Oui,01:30:00,une fois,Oui,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Normal,Oui,0,Non,Oui,Non,Oui,Non,Non,Oui,Non,Oui,Oui,Non,Non,0,1
+10,23,Externe,GEER,Chez moi,Non,02:00:00,jamais,Non,trop lent,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,1,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+11,22,Interne,GI,Cafè,Oui,02:00:00,jamais,Non,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,Oui,0,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Non,1,0
+12,22,Interne,GI,La Bibliothèque,Non,00:00:00,3 fois,Non,trop intense,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+13,21,Externe,GI,Chez moi,Oui,00:00:00,3 fois,Non,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Stresse,Non,5,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,0,1
+14,21,Externe,GC,Chez moi,Oui,03:00:00,3 fois,Oui,correct,très faibles,Moyennement satisfait,Insatisfait,normal,Stresse,Oui,0,Non,Non,Non,Oui,Non,Non,Non,Non,Oui,Non,Non,Non,0,1
+15,22,Interne,GI,Chez moi,Oui,03:00:00,3 ou plus,Oui,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,5,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Non,Oui,Oui,0,1
+16,22,Externe,GI,Cafè,Oui,04:00:00,jamais,Non,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Non,1,Non,Non,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,0,1
+17,21,Interne,GI,La Bibliothèque,Non,01:00:00,2 fois,Oui,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Oui,0,Oui,Non,Non,Oui,Non,Oui,Non,Oui,Non,Non,Non,Non,1,0
+18,22,Externe,GEE,Cafè,Oui,01:00:00,une fois,Oui,trop lent,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,Oui,2,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Non,Non,Non,0,1
+19,23,Externe,GI,Cafè,Non,03:00:00,jamais,Non,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,Non,3,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,0,1
+20,21,Interne,GI,Cafè,Non,02:00:00,3 fois,Oui,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,Non,3,Non,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+21,19,Interne,CP2,La Bibliothèque,Non,11:00:00,une fois,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Normal,Non,2,Non,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+22,21,Interne,GI,Chez moi,Non,00:00:00,4 fois ,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,1,Non,Non,Non,Oui,Non,Non,Non,Non,Oui,Non,Non,Non,0,1
+23,23,Interne,GI,Cafè,Non,11:00:00,7,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,normal,Normal,Non,5,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,0,1
+24,19,Interne,CP2,Chez moi,Non,23:30:00,3 fois,Oui,trop lent,très faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,Non,1,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Oui,Non,Non,0,1
+25,20,Interne,GI,Cafè,Non,04:00:00,jamais,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,Non,2,Non,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+26,22,Interne,GI,Chez moi,Non,01:00:00,Occasionnellment,Non,trop intense,très faibles,Insatisfait,Insatisfait,Stressé,Pas mal,Oui,0,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,0,1
+27,23,Externe,GI,Cafè,Non,01:00:00,2 fois,Oui,correct,pas mal,Satisfait,Insatisfait,normal,Normal,Oui,0,Non,Oui,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,0,1
+28,21,Interne,GI,Chez moi,Non,01:00:00,3 fois,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Non,1,Non,Oui,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+29,21,Interne,GEE,Cafè,Oui,00:00:00,4,Oui,trop lent,pas mal,Insatisfait,Insatisfait,normal,Normal,Oui,0,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,Oui,Oui,Oui,Non,0,1
+30,21,Interne,GC,Chez moi,Oui,01:00:00,3 fois,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Oui,Non,Non,0,1
+31,22,Interne,GI,La Bibliothèque,Non,01:00:00,jamais,Oui,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,4,Oui,Oui,Oui,Oui,Non,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+32,22,Externe,GI,Chez moi,Non,01:00:00,2 fois,Oui,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Non,Oui,Non,0,1
+33,20,Interne,CP2,Chez moi,Oui,02:00:00,jamais,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Pas mal,Non,2,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Oui,Non,Non,0,1
+34,23,Externe,GC,Cafè,Non,02:00:00,jamais,Non,trop intense,faibles,Insatisfait,Insatisfait,pas mal,Normal,Non,1,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+35,21,Externe,GI,Chez moi,Non,05:00:00,3 fois,Non,trop lent,faibles,Moyennement satisfait,Insatisfait,normal,Stresse,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Oui,0,1
+36,20,Interne,GI,Cafè,Non,03:00:00,3 fois,Non,correct,élevées,Satisfait,Satisfait,Stressé,Stresse,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,Non,0,1
+37,22,Interne,GEER,Cafè,Oui,01:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,Non,2,Non,Non,Oui,Non,Oui,Non,Non,Non,Non,Non,Non,Non,1,0
+38,23,Interne,GI,Cafè,Oui,04:00:00,jamais,Non,trop intense,pas mal,Satisfait,Satisfait,Stressé,Normal,Non,2,Non,Non,Non,Non,Oui,Non,Oui,Non,Non,Non,Non,Non,0,1
+39,21,Externe,GEE,Chez moi,Oui,03:00:00,une fois,Non,correct,pas mal,Satisfait,Insatisfait,normal,Normal,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Non,Non,Non,Non,Oui,0,1
+40,22,Interne,GC,Cafè,Non,01:00:00,3 fois,Oui,trop lent,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,Non,3,Non,Non,Non,Non,Oui,Non,Non,Oui,Non,Oui,Oui,Non,1,0
+41,21,Interne,GI,Cafè,Non,04:00:00,3 fois,Non,trop lent,pas mal,Satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+42,22,Interne,GI,Chez moi,Non,01:40:00,jamais,Non,correct,pas mal,Insatisfait,Moyennement satisfait,pas mal,Stresse,Non,1,Oui,Non,Oui,Oui,Oui,Oui,Non,Non,Oui,Oui,Oui,Oui,0,1
+43,23,Externe,GC,Cafè,Oui,04:00:00,3 fois,Oui,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,2,Non,Non,Non,Non,Oui,Non,Non,Oui,Non,Non,Non,Non,0,1
+44,23,Externe,GI,Cafè,Oui,12:00:00,jamais,Oui,correct,élevées,Insatisfait,Moyennement satisfait,pas mal,Stresse,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Oui,Oui,Oui,0,1
+45,21,Interne,GI,Chez moi,Non,02:00:00,jamais,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,1,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,Non,0,1
+46,22,Externe,GI,Cafè,Non,03:00:00,jamais,Non,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Normal,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,0,1
+47,22,Interne,GI,Cafè,Oui,01:00:00,une fois,Non,trop intense,faibles,Moyennement satisfait,Insatisfait,normal,Normal,Oui,0,Oui,Non,Non,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Non,0,1
+48,21,Interne,GC,Cafè,Non,01:00:00,3 fois,Oui,trop lent,faibles,Satisfait,Insatisfait,normal,Normal,Oui,0,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Oui,Oui,Oui,0,1
+49,23,Interne,GI,Cafè,Oui,03:00:00,une fois,Oui,trop lent,très faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,0,1
+50,23,Externe,GEE,Chez moi,Non,00:30:00,jamais,Non,correct,élevées,Satisfait,Satisfait,Stressé,Stresse,Non,1,Non,Non,Non,Non,Non,Non,Non,Oui,Non,Non,Non,Non,1,0
+51,21,Interne,GC,Cafè,Non,01:00:00,une fois,Oui,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,0,1
+52,22,Externe,GI,Cafè,Non,03:00:00,jamais,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,pas mal,Stresse,Non,1,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,0,1
+53,20,Interne,GI,Cafè,Oui,01:00:00,jamais,Oui,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,1,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,Non,Oui,0,1
+54,21,Interne,GI,Chez moi,Non,01:00:00,jamais,Non,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,2,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Oui,Non,1,0
+55,20,Externe,CP2,Chez moi,Non,05:00:00,jamais,Non,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,0,1
+56,22,Externe,GI,Chez moi,Non,02:30:00,3 fois,Non,trop intense,pas mal,Satisfait,Moyennement satisfait,Stressé,Pas mal,Oui,1,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Oui,Oui,Oui,0,1
+57,18,Interne,CP1,Chez moi,Non,00:30:00,jamais,Non,trop lent,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,Oui,0,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,1,0
+58,19,Interne,CP2,Chez moi,Non,01:00:00,jamais,Oui,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Non,1,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,Non,1,0
+59,23,Externe,GEER,Cafè,Oui,02:00:00,3 fois,Oui,trop lent,pas mal,Insatisfait,Insatisfait,normal,Normal,Non,1,Non,Non,Non,Oui,Non,Non,Non,Non,Oui,Non,Oui,Non,0,1
+60,25,Interne,GC,Cafè,Oui,02:00:00,Occasionnellement ,Oui,correct,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Oui,0,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Non,0,1
+61,23,Interne,GI,Cafè,Non,01:00:00,2 fois,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,2,Non,Non,Non,Non,Oui,Oui,Oui,Oui,Non,Non,Oui,Non,0,1
+62,20,Externe,CP2,La Bibliothèque,Non,03:00:00,une fois,Non,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,2,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Non,Oui,0,1
+63,20,Interne,CP2,Chez moi,Non,03:00:00,jamais,Oui,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,normal,Normal,Oui,1,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Non,1,0
+64,23,Externe,GEE,Chez moi,Oui,01:00:00,une fois,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Normal,Non,2,Non,Non,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Oui,Non,0,1
+65,19,Interne,CP1,Chez moi,Oui,00:00:00,5,Oui,correct,élevées,Insatisfait,Moyennement satisfait,normal,Normal,Non,4,Non,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Non,0,1
+66,22,Interne,GC,Chez moi,Non,00:30:00,jamais,Non,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Pas mal,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Oui,Oui,Non,1,0
+67,19,Externe,CP1,Cafè,Non,04:00:00,jamais,Non,correct,pas mal,Insatisfait,Insatisfait,normal,Normal,Non,1,Non,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,0,1
+68,20,Externe,GC,Chez moi,Non,01:00:00,Parfois ,Oui,trop intense,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Non,1,Non,Non,Oui,Oui,Oui,Non,Non,Non,Oui,Non,Non,Non,1,0
+69,19,Interne,CP2,Cafè,Oui,02:00:00,3 fois,Oui,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,1,Non,Non,Oui,Oui,Non,Oui,Non,Oui,Non,Non,Non,Non,0,1
+70,20,Interne,GI,Cafè,Oui,02:00:00,une fois,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,1,Non,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,0,1
+71,18,Externe,CP1,La Bibliothèque,Oui,12:30:00,jamais,Oui,correct,faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,Non,3,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Oui,Non,1,0
+72,20,Interne,GC,Chez moi,Non,02:00:00,3 fois,Oui,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Non,Non,Oui,Non,1,0
+73,18,Externe,CP1,Chez moi,Non,04:00:00,une fois,Oui,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Oui,Oui,Non,1,0
+74,18,Externe,CP1,Chez moi,Oui,04:00:00,2 fois,Non,correct,faibles,Insatisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Non,0,1
+75,21,Interne,GC,Chez moi,Non,23:00:00,3 fois,Oui,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,Non,3,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Oui,Non,Non,1,0
+76,23,Interne,GI,Cafè,Non,01:00:00,jamais,Non,correct,faibles,Moyennement satisfait,Moyennement satisfait,normal,Normal,Non,2,Oui,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+77,20,Interne,CP2,La Bibliothèque,Non,01:00:00,jamais,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Oui,Non,Oui,Non,Oui,Non,Non,Oui,Non,Non,Oui,Non,0,1
+78,17,Interne,CP1,La Bibliothèque,Oui,02:30:00,jamais,Non,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Non,1,Oui,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+79,20,Interne,CP1,Chez moi,Non,01:30:00,jamais,Oui,correct,pas mal,Insatisfait,Satisfait,pas mal,Normal,Non,4,Oui,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,Non,0,1
+80,20,Externe,GI,Chez moi,Non,03:00:00,jamais,Non,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,1,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,1,0
+81,20,Interne,GEE,Cafè,Oui,02:00:00,2 fois,Oui,trop intense,pas mal,Moyennement satisfait,Insatisfait,normal,Stresse,Oui,0,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,Non,1,0
+82,22,Externe,GEE,Cafè,Oui,02:00:00,4,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,pas mal,Pas mal,Oui,0,Oui,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Non,Non,Non,0,1
+83,22,Externe,GEER,Cafè,Oui,02:00:00,une fois,Non,correct,pas mal,Satisfait,Insatisfait,normal,Normal,Non,1,Non,Non,Non,Oui,Non,Oui,Non,Oui,Non,Non,Oui,Non,0,1
+84,23,Interne,GEE,Chez moi,Oui,03:00:00,2 fois,Oui,correct,très faibles,Moyennement satisfait,Insatisfait,normal,Normal,Non,1,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,1,0
+85,20,Externe,CP1,Cafè,Oui,05:00:00,jamais,Oui,trop lent,très faibles,Insatisfait,Insatisfait,normal,Normal,Non,3,Non,Oui,Oui,Oui,Non,Oui,Non,Oui,Non,Non,Oui,Non,0,1
+86,21,Externe,GI,Chez moi,Non,00:00:00,jamais,Non,trop lent,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,5,Oui,Non,Oui,Non,Oui,Non,Non,Oui,Non,Oui,Oui,Non,1,0
+87,18,Externe,CP1,Cafè,Oui,05:00:00,7,Oui,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,3,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Non,0,1
+88,19,Externe,CP2,Cafè,Non,05:00:00,une fois,Oui,trop lent,très faibles,Insatisfait,Insatisfait,pas mal,Normal,Non,3,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+89,21,Interne,CP2,Chez moi,Non,01:00:00,3 fois,Oui,trop lent,très faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,Non,2,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Oui,Oui,Oui,1,0
+90,20,Externe,GEER,Cafè,Oui,01:00:00,une fois,Non,trop lent,pas mal,Insatisfait,Insatisfait,normal,Normal,Non,4,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Non,Non,0,1
+91,24,Interne,GC,Chez moi,Non,04:30:00,jamais,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Non,Non,Non,Non,Non,0,1
+92,23,Externe,GI,Cafè,Non,02:00:00,3 fois,Non,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,Non,1,Non,Non,Non,Non,Oui,Non,Non,Oui,Non,Non,Oui,Non,0,1
+93,22,Interne,GI,Cafè,Oui,02:00:00,une fois,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,2,Non,Non,Non,Non,Oui,Oui,Oui,Oui,Non,Non,Oui,Non,0,1
+94,25,Externe,GEE,La Bibliothèque,Oui,00:00:00,une fois,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,1,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Oui,Oui,Non,0,1
+95,20,Interne,GI,Cafè,Non,01:00:00,une fois,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,Oui,0,Non,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Oui,Oui,Non,1,0
+96,20,Externe,CP2,Chez moi,Non,02:00:00,4,Oui,correct,faibles,Insatisfait,Insatisfait,normal,Normal,Non,1,Non,Oui,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Oui,Non,0,1
+97,18,Interne,CP1,Chez moi,Oui,01:00:00,une fois,Oui,trop lent,pas mal,Satisfait,Insatisfait,pas mal,Normal,Non,1,Non,Oui,Oui,Oui,Non,Oui,Non,Oui,Non,Oui,Non,Non,0,1
+98,22,Externe,GEER,Cafè,Oui,00:00:00,jamais,Oui,trop lent,pas mal,Satisfait,Moyennement satisfait,normal,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Non,Oui,Oui,1,0
+99,18,Interne,CP1,La Bibliothèque,Oui,00:30:00,une fois,Oui,trop lent,pas mal,Satisfait,Moyennement satisfait,pas mal,Normal,Non,1,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,1,0
+100,22,Interne,GI,Chez moi,Non,01:00:00,jamais,Non,trop intense,élevées,Insatisfait,Insatisfait,pas mal,Pas mal,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Non,Oui,Non,0,1
+101,22,Interne,GC,Chez moi,Non,01:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,1,Non,Non,Non,Non,Oui,Non,Non,Oui,Non,Oui,Non,Non,1,0
+102,21,Externe,GC,Chez moi,Oui,04:00:00,3 fois,Oui,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Normal,Non,4,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Oui,Non,0,1
+103,21,Interne,GI,Chez moi,Non,01:30:00,jamais,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,Non,1,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,Oui,1,0
+104,22,Externe,GI,Chez moi,Oui,03:00:00,jamais,Oui,trop lent,pas mal,Satisfait,Insatisfait,Stressé,Normal,Oui,0,Oui,Oui,Non,Non,Oui,Non,Non,Oui,Non,Non,Oui,Non,1,0
+105,23,Interne,CP1,La Bibliothèque,Non,04:00:00,une fois,Non,trop lent,pas mal,Moyennement satisfait,Satisfait,Stressé,Stresse,Oui,1,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Non,Non,Non,1,0
+106,21,Interne,GI,Chez moi,Non,00:00:00,jamais,Non,trop lent,élevées,Satisfait,Moyennement satisfait,normal,Normal,Non,1,Non,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+107,21,Externe,GEER,La Bibliothèque,Oui,12:00:00,une fois,Oui,correct,élevées,Moyennement satisfait,Moyennement satisfait,normal,Normal,Oui,0,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,Non,1,0
+108,19,Externe,GC,Chez moi,Oui,02:00:00,une fois,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,Oui,0,Oui,Oui,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,1,0
+109,22,Externe,GEE,Cafè,Oui,00:00:00,2 fois,Oui,trop lent,pas mal,Satisfait,Satisfait,normal,Normal,Non,1,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,0,1
+110,18,Interne,CP1,La Bibliothèque,Oui,01:15:00,une fois,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,2,Non,Non,Non,Non,Non,Non,Non,Oui,Oui,Non,Non,Non,0,1
+111,22,Interne,GI,Cafè,Non,02:00:00,3 fois,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,3,Non,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Oui,Non,Oui,0,1
+112,22,Externe,GEE,La Bibliothèque,Oui,23:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,1,Non,Oui,Non,Non,Oui,Non,Oui,Non,Oui,Non,Oui,Non,0,1
+113,23,Externe,GC,La Bibliothèque,Oui,23:00:00,jamais,Non,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Non,Non,Oui,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Non,1,0
+114,18,Interne,CP1,La Bibliothèque,Non,01:00:00,jamais,Oui,trop lent,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Oui,Non,1,0
+115,19,Externe,CP1,Chez moi,Oui,12:45:00,jamais,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,2,Non,Oui,Non,Non,Oui,Non,Non,Oui,Oui,Oui,Non,Non,0,1
+116,21,Externe,GC,Chez moi,Non,03:00:00,jamais,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Oui,Oui,Non,Non,Oui,Non,Oui,Non,Oui,Non,Non,Non,1,0
+117,19,Interne,CP1,Cafè,Non,00:00:00,jamais,Non,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,1,Non,Non,Non,Non,Oui,Non,Oui,Non,Non,Non,Oui,Oui,0,1
+118,23,Interne,GC,Cafè,Oui,23:00:00,2 fois,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,Non,2,Oui,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,Oui,0,1
+119,19,Interne,CP1,Chez moi,Non,22:00:00,2 fois,Oui,correct,élevées,Satisfait,Satisfait,Stressé,Normal,Non,2,Oui,Oui,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,1,0
+120,20,Interne,GI,Chez moi,Non,02:00:00,une fois,Oui,trop lent,pas mal,Insatisfait,Insatisfait,pas mal,Stresse,Non,1,Oui,Oui,Oui,Non,Oui,Oui,Non,Non,Non,Non,Non,Non,0,1
+121,23,Externe,GEE,Chez moi,Oui,00:30:00,jamais,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,2,Oui,Oui,Non,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Non,1,0
+122,21,Externe,GI,Chez moi,Non,00:30:00,3 fois,Non,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Oui,0,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,1,0
+123,23,Interne,GEER,Cafè,Oui,01:00:00,2 fois,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Oui,Non,Non,Non,Non,Non,Non,1,0
+124,22,Interne,GI,Chez moi,Non,02:00:00,3 fois,Oui,trop intense,faibles,Insatisfait,Insatisfait,normal,Normal,Non,4,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Non,0,1
+125,21,Interne,GC,Chez moi,Oui,01:00:00,5,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,pas mal,Normal,Oui,0,Non,Non,Oui,Oui,Oui,Oui,Non,Non,Non,Non,Oui,Non,0,1
+126,22,Interne,GI,Chez moi,Non,23:00:00,jamais,Non,trop intense,élevées,Moyennement satisfait,Insatisfait,Stressé,Normal,Oui,0,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Non,1,0
+127,22,Externe,GEER,Cafè,Non,01:00:00,2 fois,Non,trop lent,très faibles,Satisfait,Insatisfait,normal,Normal,Non,2,Non,Non,Non,Oui,Oui,Non,Non,Non,Non,Non,Non,Oui,0,1
+128,23,Interne,GC,La Bibliothèque,Oui,02:02:00,jamais,Non,trop lent,très faibles,Insatisfait,Satisfait,pas mal,Pas mal,Oui,1,Non,Oui,Non,Oui,Non,Oui,Non,Oui,Non,Oui,Non,Oui,0,1
+129,18,Externe,CP1,La Bibliothèque,Non,01:00:00,jamais,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,3,Non,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Non,Non,1,0
+130,20,Externe,CP1,La Bibliothèque,Non,00:00:00,2 fois,Non,trop lent,pas mal,Moyennement satisfait,Insatisfait,normal,Pas mal,Non,2,Oui,Oui,Non,Oui,Oui,Non,Non,Non,Non,Non,Non,Non,0,1
+131,19,Externe,CP1,Chez moi,Non,02:00:00,jamais,Non,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,3,Non,Oui,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Oui,1,0
+132,19,Externe,CP1,Chez moi,Non,01:00:00,jamais,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Non,3,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,0,1
+133,17,Externe,CP1,Chez moi,Non,02:00:00,jamais,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,Non,1,Non,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Non,1,0
+134,18,Externe,CP1,Chez moi,Non,01:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,1,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,Non,Non,1,0
+135,19,Externe,CP1,Cafè,Non,00:00:00,une fois,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,2,Oui,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Oui,Non,Oui,1,0
+136,18,Externe,CP1,Chez moi,Non,11:30:00,une fois,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Non,1,Non,Oui,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Oui,0,1
+137,19,Externe,CP1,La Bibliothèque,Non,03:00:00,jamais,Non,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,Non,2,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,Oui,Non,Oui,Non,1,0
+138,18,Interne,CP1,La Bibliothèque,Non,01:50:00,2 fois,Non,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,3,Non,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Non,1,0
+139,20,Interne,CP1,Chez moi,Oui,23:00:00,3 fois,Oui,correct,pas mal,Satisfait,Satisfait,Stressé,Pas mal,Non,3,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,0,1
+140,19,Externe,CP1,La Bibliothèque,Non,01:00:00,2 fois,Oui,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,2,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Non,Non,Non,1,0
+141,19,Externe,CP1,Cafè,Oui,01:00:00,3 fois,Non,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Normal,Non,2,Non,Oui,Non,Oui,Oui,Non,Non,Oui,Non,Non,Oui,Non,0,1
+142,19,Interne,CP1,Chez moi,Non,01:00:00,une fois,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Oui,1,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,Non,Non,Non,0,1
+143,18,Externe,CP1,La Bibliothèque,Non,01:00:00,jamais,Oui,trop lent,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,2,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,Non,1,0
+144,18,Externe,CP1,Chez moi,Non,02:00:00,une fois,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,Non,3,Non,Non,Non,Non,Oui,Non,Non,Oui,Non,Non,Non,Non,0,1
+145,18,Interne,CP1,Chez moi,Non,02:15:00,jamais,Non,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Normal,Non,3,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Oui,1,0
+146,18,Externe,CP1,Cafè,Non,01:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,4,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,1,0
+147,19,Externe,CP1,Chez moi,Non,02:00:00,jamais,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,4,Non,Non,Oui,Non,Oui,Non,Non,Non,Non,Non,Non,Oui,1,0
+148,19,Externe,CP1,Chez moi,Non,00:00:00,jamais,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,2,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,0,1
+149,18,Interne,CP1,Chez moi,Oui,00:45:00,3 fois,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,Non,3,Non,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,0,1
+150,19,Interne,CP1,Chez moi,Non,00:00:00,jamais,Non,correct,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Oui,0,Oui,Oui,Oui,Oui,Oui,Oui,Non,Non,Non,Non,Non,Non,1,0
+151,22,Externe,GI,Chez moi,Non,00:00:00,une fois,Non,correct,élevées,Satisfait,Moyennement satisfait,Stressé,Normal,Oui,0,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Non,Non,Non,0,1
+152,17,Externe,CP1,Chez moi,Non,03:00:00,jamais,Non,trop lent,pas mal,Satisfait,Moyennement satisfait,Stressé,Pas mal,Non,2,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,Non,Non,0,1
+153,20,Externe,GI,Cafè,Non,23:50:00,une fois,Oui,trop lent,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Non,1,0
+154,22,Interne,GEER,Cafè,Oui,02:00:00,jamais,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,1,0
+155,17,Interne,CP1,La Bibliothèque,Non,00:00:00,jamais,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,1,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Oui,Non,0,1
+156,21,Externe,GI,Chez moi,Non,02:00:00,une fois,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Oui,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,0,1
+157,21,Interne,GEER,Chez moi,Oui,03:00:00,2 fois,Oui,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,4,Non,Oui,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,0,1
+158,21,Externe,GI,Chez moi,Non,01:00:00,3 fois,Non,correct,faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,Oui,0,Non,Oui,Non,Oui,Non,Non,Non,Non,Oui,Non,Non,Oui,0,1
+159,21,Externe,GI,Cafè,Non,12:30:00,jamais,Non,trop lent,très faibles,Moyennement satisfait,Insatisfait,normal,Normal,Non,1,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,0,1
+160,22,Interne,GC,Cafè,Oui,02:00:00,jamais,Oui,trop intense,pas mal,Satisfait,Insatisfait,Stressé,Pas mal,Oui,0,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,1,0
+161,19,Interne,CP1,Chez moi,Non,02:00:00,3 fois,Non,correct,faibles,Moyennement satisfait,Moyennement satisfait,normal,Normal,Non,3,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,0,1
+162,17,Interne,CP1,La Bibliothèque,Oui,03:00:00,3 fois,Oui,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,Non,2,Non,Non,Oui,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Oui,1,0
+163,21,Interne,GEER,Cafè,Non,00:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Oui,Non,Oui,Non,Non,Non,Non,Oui,Non,1,0
+164,18,Interne,CP1,La Bibliothèque,Oui,03:00:00,jamais,Non,trop intense,pas mal,Satisfait,Moyennement satisfait,Stressé,Normal,Non,3,Non,Non,Non,Oui,Oui,Oui,Non,Non,Non,Non,Oui,Non,1,0
+165,18,Externe,CP1,Cafè,Non,00:30:00,jamais,Oui,trop lent,élevées,Satisfait,Moyennement satisfait,pas mal,Pas mal,Non,2,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Oui,Oui,Non,1,0
+166,22,Interne,GC,Cafè,Oui,01:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,2,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+167,22,Interne,GI,Chez moi,Non,00:00:00,une fois,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Oui,Oui,Non,1,0
+168,19,Interne,CP1,Chez moi,Non,02:00:00,3 fois,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Non,Oui,Non,0,1
+169,18,Externe,CP1,Cafè,Oui,01:00:00,Occa,Non,correct,pas mal,Insatisfait,Moyennement satisfait,normal,Normal,Non,1,Oui,Non,Oui,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,0,1
+170,18,Externe,CP1,Cafè,Non,12:30:00,jamais,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,Non,3,Oui,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,1,0
+171,21,Externe,GI,Chez moi,Non,00:00:00,jamais,Non,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,1,0
+172,18,Externe,CP1,Chez moi,Oui,01:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,2,Non,Non,Oui,Oui,Non,Non,Non,Non,Oui,Oui,Oui,Non,1,0
+173,18,Interne,CP1,La Bibliothèque,Oui,12:00:00,3 fois,Oui,trop lent,pas mal,Satisfait,Insatisfait,Stressé,Normal,Oui,0,Non,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Oui,Oui,1,0
+174,20,Interne,CP1,Cafè,Oui,03:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,Non,4,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Oui,0,1
+175,21,Interne,GEER,Cafè,Non,02:00:00,une fois,Non,trop intense,pas mal,Insatisfait,Moyennement satisfait,pas mal,Pas mal,Non,1,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,Non,1,0
+176,18,Externe,CP1,Chez moi,Non,02:00:00,une fois,Oui,correct,très faibles,Insatisfait,Insatisfait,normal,Normal,Non,2,Non,Non,Non,Oui,Non,Non,Non,Oui,Oui,Non,Non,Non,0,1
+177,18,Externe,CP1,Cafè,Non,02:00:00,3 fois,Oui,correct,faibles,Moyennement satisfait,Insatisfait,normal,Normal,Non,1,Non,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,1,0
+178,19,Interne,CP1,La Bibliothèque,Non,01:00:00,une fois,Oui,trop intense,pas mal,Moyennement satisfait,Insatisfait,normal,Pas mal,Oui,0,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,0,1
+179,19,Externe,CP1,Chez moi,Non,04:00:00,jamais,Oui,trop lent,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,Non,2,Oui,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,0,1
+180,19,Externe,CP1,La Bibliothèque,Non,05:30:00,jamais,Non,trop intense,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,3,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Oui,0,1
+181,18,Interne,CP1,Chez moi,Non,12:00:00,jamais,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,1,Oui,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Non,1,0
+182,18,Interne,CP1,Chez moi,Non,23:00:00,jamais,Non,correct,faibles,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,2,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,Non,Oui,Non,1,0
+183,19,Interne,CP1,La Bibliothèque,Oui,00:00:00,une fois,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,1,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Oui,Oui,Non,1,0
+184,20,Interne,GI,Chez moi,Oui,00:00:00,2 fois,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,1,Oui,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Oui,Non,0,1
+185,21,Externe,cp1,Chez moi,Oui,22:00:00,une fois,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Oui,0,Oui,Non,Non,Non,Oui,Non,Non,Oui,Oui,Oui,Oui,Oui,0,1
+186,18,Externe,CP1,Chez moi,Oui,01:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,5,Non,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Oui,0,1
+187,20,Externe,GC,Cafè,Oui,00:30:00,une fois,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Non,Oui,1,0
+188,18,Externe,autre,La Bibliothèque,Oui,00:00:00,une fois,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,4,Oui,Oui,Oui,Oui,Oui,Non,Non,Non,Non,Oui,Non,Non,0,1
+189,18,Interne,autre,La Bibliothèque,Non,04:00:00,jamais,Oui,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,Oui,0,Oui,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Oui,Non,0,1
+190,21,Interne,autre,Chez moi,Non,01:00:00,jamais,Oui,correct,élevées,Satisfait,Satisfait,normal,Pas mal,Non,1,Non,Oui,Oui,Oui,Oui,Non,Non,Non,Non,Oui,Non,Oui,0,1
+191,22,Interne,Autre,Chez moi,Non,03:30:00,3 fois,Non,correct,pas mal,Moyennement satisfait,Insatisfait,normal,Normal,Oui,0,Non,Oui,Non,Oui,Oui,Non,Non,Non,Non,Non,Non,Non,0,1
+192,20,Externe,Autre,Chez moi,Non,04:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,4,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,Non,0,1
+193,23,Interne,Autre,Chez moi,Oui,00:00:00,une fois,Oui,correct,pas mal,Satisfait,Satisfait,Stressé,Pas mal,Non,3,Non,Oui,Oui,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Non,0,1
+194,20,Interne,Autre,Chez moi,Non,02:15:00,5,Non,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,3,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Oui,Oui,Non,0,1
+195,23,Interne,GI,La Bibliothèque,Oui,00:00:00,jamais,Non,trop intense,faibles,Insatisfait,Moyennement satisfait,Stressé,Pas mal,Non,1,Oui,Non,Non,Non,Oui,Oui,Non,Oui,Non,Non,Non,Non,1,0
+196,18,Interne,CP1,Chez moi,Non,03:30:00,une fois,Oui,trop lent,pas mal,Insatisfait,Insatisfait,pas mal,Pas mal,Non,1,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Oui,Non,1,0
+197,22,Interne,CP2,Chez moi,Non,04:42:00,2 fois,Non,trop intense,pas mal,Insatisfait,Insatisfait,pas mal,Pas mal,Non,3,Oui,Non,Oui,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Oui,0,1
+198,22,Interne,CP2,Chez moi,Non,04:42:00,2 fois,Non,trop intense,pas mal,Insatisfait,Insatisfait,pas mal,Pas mal,Non,3,Oui,Non,Oui,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Oui,0,1
+199,23,Externe,GEER,La Bibliothèque,Oui,00:00:00,jamais,Non,correct,très élevées,Satisfait,Satisfait,normal,Normal,Oui,0,Non,Non,Non,Non,Non,Oui,Non,Oui,Oui,Oui,Oui,Oui,1,0
+200,20,Interne,GI,Chez moi,Oui,02:30:00,jamais,Non,trop intense,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,Oui,0,Non,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Oui,Non,1,0
+201,20,Interne,GI,Chez moi,Oui,02:30:00,jamais,Non,trop intense,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,Oui,0,Non,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Oui,Non,1,0
+202,18,Interne,CP1,Chez moi,Oui,02:30:00,jamais,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,0,1
+203,22,Interne,GEER,Cafè,Non,01:00:00,5 fois ,Non,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Non,3,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,0,1
+204,22,Interne,GEER,Cafè,Non,01:00:00,5 fois ,Non,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Non,3,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,0,1
+205,18,Interne,CP1,Cafè,Non,23:00:00,jamais,Non,trop intense,élevées,Insatisfait,Moyennement satisfait,Stressé,Stresse,Non,1,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Oui,Oui,Non,0,1
+206,19,Interne,CP1,Chez moi,Oui,22:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Oui,Non,Non,Oui,Non,Oui,Non,Non,Non,Non,Non,Non,0,1
+207,19,Externe,CP2,Cafè,Non,02:00:00,jamais,Non,trop intense,faibles,Moyennement satisfait,Insatisfait,normal,Stresse,Non,3,Oui,Non,Oui,Non,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,1,0
+208,19,Externe,CP1,Chez moi,Non,03:00:00,une fois,Non,correct,pas mal,Satisfait,Insatisfait,Stressé,Stresse,Non,4,Non,Non,Oui,Non,Oui,Oui,Oui,Oui,Oui,Non,Oui,Oui,0,1
+209,20,Interne,CP2,La Bibliothèque,Oui,00:00:00,3 fois,Oui,trop lent,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,Non,2,Oui,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,Non,1,0
+210,20,Externe,CP2,Cafè,Oui,01:00:00,3 fois,Oui,trop intense,faibles,Satisfait,Insatisfait,pas mal,Pas mal,Non,2,Oui,Oui,Non,Oui,Oui,Oui,Non,Oui,Non,Non,Oui,Non,0,1
+211,20,Externe,CP2,La Bibliothèque,Oui,02:00:00,3 fois,Oui,trop intense,pas mal,Moyennement satisfait,Insatisfait,pas mal,Stresse,Non,2,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Oui,0,1
+212,20,Externe,CP1,Cafè,Non,02:00:00,jamais,Oui,trop intense,faibles,Moyennement satisfait,Moyennement satisfait,normal,Stresse,Non,1,Non,Oui,Non,Oui,Oui,Non,Non,Non,Non,Oui,Non,Non,1,0
+213,19,Externe,CP2,Cafè,Oui,02:30:00,3 fois,Oui,correct,pas mal,Satisfait,Moyennement satisfait,normal,Pas mal,Oui,0,Oui,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Non,Non,1,0
+214,21,Interne,GEER,La Bibliothèque,Non,21:00:00,3 fois,Oui,correct,élevées,Satisfait,Satisfait,normal,Normal,Oui,2,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,Oui,0,1
+215,20,Externe,CP2,La Bibliothèque,Non,03:00:00,jamais,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+216,23,Externe,GEE,Chez moi,Non,06:00:00,jamais,Non,trop intense,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,3,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,0,1
+217,18,Interne,CP1,Chez moi,Non,00:00:00,2 fois,Non,correct,pas mal,Satisfait,Insatisfait,pas mal,Pas mal,Oui,0,Oui,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Oui,Non,0,1
+218,19,Interne,CP1,Chez moi,Oui,01:00:00,Occasionnellment,Non,correct,élevées,Satisfait,Satisfait,Stressé,Stresse,Non,1,Oui,Non,Non,Oui,Oui,Oui,Non,Oui,Non,Non,Oui,Non,1,0
+219,19,Interne,CP1,Chez moi,Oui,01:00:00,jamais,Non,correct,faibles,Satisfait,Moyennement satisfait,pas mal,Stresse,Non,2,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Oui,Non,Oui,0,1
+220,20,Interne,CP1,La Bibliothèque,Non,00:30:00,jamais,Non,correct,élevées,Satisfait,Satisfait,normal,Pas mal,Non,2,Oui,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,1,0
+221,20,Externe,CP1,Cafè,Non,23:00:00,jamais,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,3,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,1,0
+222,21,Interne,GI,Chez moi,Non,04:00:00,jamais,Non,correct,pas mal,Satisfait,Insatisfait,normal,Stresse,Non,3,Oui,Non,Oui,Non,Oui,Oui,Oui,Oui,Oui,Non,Oui,Non,0,1
+223,18,Externe,CP2,La Bibliothèque,Oui,01:30:00,jamais,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Oui,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,1,0
+224,18,Interne,CP1,Cafè,Oui,01:00:00,3 fois,Oui,correct,pas mal,Satisfait,Insatisfait,normal,Stresse,Non,2,Non,Non,Oui,Non,Oui,Oui,Non,Oui,Non,Non,Non,Non,0,1
+225,21,Externe,CP2,Cafè,Non,02:30:00,jamais,Non,correct,élevées,Moyennement satisfait,Insatisfait,pas mal,Stresse,Non,2,Non,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,1,0
+226,19,Externe,CP1,Cafè,Oui,03:00:00,jamais,Non,trop lent,faibles,Moyennement satisfait,Insatisfait,pas mal,Stresse,Non,3,Non,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,Oui,Non,1,0
+227,20,Externe,CP1,Cafè,Oui,02:30:00,jamais,Oui,correct,pas mal,Satisfait,Insatisfait,pas mal,Normal,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Oui,Non,Non,0,1
+228,22,Interne,GEE,Cafè,Oui,02:00:00,3 fois,Non,trop lent,pas mal,Satisfait,Moyennement satisfait,pas mal,Stresse,Non,2,Oui,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,1,0
+229,22,Interne,GC,Chez moi,Non,02:00:00,jamais,Oui,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Oui,Non,Oui,Oui,Oui,Non,Non,Non,Oui,Non,Non,Non,0,1
+230,18,Externe,CP1,Chez moi,Non,00:00:00,2 fois,Oui,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Oui,0,Non,Non,Non,Non,Non,Oui,Non,Oui,Oui,Non,Oui,Oui,0,1
+231,22,Externe,GEE,Chez moi,Oui,03:00:00,une fois,Oui,correct,élevées,Satisfait,Satisfait,pas mal,Stresse,Non,3,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Non,Non,Non,0,1
+232,20,Interne,CP2,Cafè,Non,01:30:00,3 fois,Oui,trop intense,faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,Non,1,Oui,Non,Oui,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Non,0,1
+233,18,Interne,CP1,La Bibliothèque,Non,02:00:00,une fois,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Oui,0,Oui,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,1,0
+234,21,Externe,GC,La Bibliothèque,Non,01:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,1,Oui,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Non,Oui,0,1
+235,18,Interne,CP1,La Bibliothèque,Non,02:00:00,jamais,Oui,trop intense,faibles,Moyennement satisfait,Insatisfait,pas mal,Stresse,Oui,0,Non,Non,Oui,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+236,19,Externe,CP2,Cafè,Non,01:50:00,3 fois,Oui,correct,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,2,Oui,Non,Oui,Non,Oui,Non,Non,Non,Oui,Oui,Oui,Oui,0,1
+237,19,Externe,CP2,Chez moi,Non,01:30:00,jamais,Oui,correct,pas mal,Insatisfait,Insatisfait,normal,Stresse,Non,3,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Non,1,0
+238,22,Interne,GEER,Cafè,Oui,02:00:00,Occasionnellment,Non,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Stresse,Non,2,Oui,Non,Oui,Oui,Oui,Non,Non,Non,Oui,Non,Oui,Non,0,1
+239,17,Interne,CP1,Chez moi,Non,23:50:00,Occasionnellment,Non,trop intense,très faibles,Moyennement satisfait,Insatisfait,pas mal,Stresse,Non,1,Non,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Oui,Non,0,1
+240,18,Interne,CP1,La Bibliothèque,Non,00:50:00,3 fois,Oui,correct,élevées,Satisfait,Insatisfait,pas mal,Stresse,Non,1,Oui,Non,Non,Non,Non,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+241,21,Externe,GEE,Cafè,Non,01:00:00,Occasionnellment,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,2,Non,Oui,Oui,Oui,Oui,Non,Non,Non,Oui,Oui,Non,Non,0,1
+242,21,Interne,GC,La Bibliothèque,Non,01:30:00,3 fois,Oui,correct,élevées,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,2,Oui,Non,Oui,Oui,Oui,Non,Non,Non,Oui,Non,Oui,Non,1,0
+243,20,Interne,CP2,Chez moi,Non,02:00:00,jamais,Oui,trop intense,pas mal,Insatisfait,Insatisfait,normal,Pas mal,Oui,0,Oui,Non,Non,Non,Oui,Oui,Non,Non,Non,Non,Oui,Non,1,0
+244,18,Interne,CP1,La Bibliothèque,Non,02:30:00,jamais,Non,trop intense,très faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,Non,2,Oui,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Oui,Non,1,0
+245,20,Interne,CP2,Cafè,Oui,01:30:00,3 fois,Oui,trop intense,élevées,Moyennement satisfait,Insatisfait,pas mal,Stresse,Non,1,Non,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Oui,Oui,0,1
+246,18,Interne,CP1,Cafè,Oui,03:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,2,Oui,Non,Oui,Non,Oui,Non,Non,Oui,Non,Non,Oui,Non,0,1
+247,18,Interne,CP1,Cafè,Oui,03:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,2,Oui,Non,Oui,Non,Oui,Non,Non,Oui,Non,Non,Oui,Non,0,1
+248,20,Externe,CP2,Chez moi,Non,02:00:00,jamais,Oui,correct,faibles,Satisfait,Moyennement satisfait,normal,Pas mal,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,1,0
+249,21,Interne,GEER,Cafè,Non,02:00:00,jamais,Non,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Stresse,Non,1,Oui,Non,Non,Oui,Non,Oui,Non,Non,Oui,Non,Non,Non,1,0
+250,18,Externe,CP1,La Bibliothèque,Oui,01:20:00,Occasionnellment,Oui,correct,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Non,Non,Oui,Non,Oui,Oui,Non,Non,Non,1,0
+251,20,Interne,CP2,Chez moi,Non,01:00:00,3 fois,Oui,correct,pas mal,Moyennement satisfait,Insatisfait,pas mal,Stresse,Non,4,Non,Non,Oui,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+252,22,Interne,GC,La Bibliothèque,Non,01:00:00,jamais,Oui,trop intense,élevées,Satisfait,Insatisfait,Stressé,Stresse,Non,1,Oui,Non,Oui,Oui,Oui,Non,Non,Non,Non,Non,Oui,Non,1,0
+253,18,Externe,CP1,Cafè,Oui,02:00:00,jamais,Oui,correct,très faibles,Moyennement satisfait,Moyennement satisfait,normal,Pas mal,Non,1,Non,Non,Oui,Non,Oui,Oui,Non,Non,Non,Oui,Oui,Non,1,0
+254,19,Interne,CP1,Chez moi,Oui,02:00:00,Occasionnellment,Oui,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,Non,3,Non,Non,Oui,Non,Non,Oui,Non,Oui,Non,Oui,Oui,Non,0,1
+255,21,Interne,GC,La Bibliothèque,Non,01:30:00,Occasionnellment,Oui,trop intense,pas mal,Moyennement satisfait,Insatisfait,normal,Stresse,Non,2,Oui,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Oui,0,1
+256,20,Interne,GEE,La Bibliothèque,Oui,01:00:00,2 fois,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,1,Oui,Non,Oui,Oui,Non,Non,Non,Oui,Non,Oui,Non,Non,0,1
+257,19,Interne,CP2,Cafè,Oui,02:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,2,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Oui,Oui,Non,1,0
+258,20,Interne,CP2,La Bibliothèque,Non,00:30:00,3 fois,Oui,trop lent,pas mal,Satisfait,Moyennement satisfait,Stressé,Stresse,Non,2,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Oui,0,1
+259,21,Interne,CP2,Chez moi,Oui,02:00:00,3 fois,Oui,trop intense,pas mal,Insatisfait,Insatisfait,normal,Normal,Oui,1,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Oui,Non,0,1
+260,18,Interne,CP1,Chez moi,Non,23:45:00,Occasionnellment,Oui,correct,pas mal,Insatisfait,Insatisfait,normal,Normal,Non,3,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Oui,Non,Non,0,1
+261,19,Interne,CP2,La Bibliothèque,Non,02:00:00,Occasionnellment,Oui,trop intense,pas mal,Moyennement satisfait,Insatisfait,normal,Stresse,Oui,0,Non,Non,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,Oui,Non,0,1
+262,19,Externe,CP2,Chez moi,Non,01:00:00,une fois,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,Non,2,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Oui,Non,0,1
+263,21,Interne,GI,Cafè,Oui,01:00:00,3 fois,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,normal,Normal,Oui,0,Oui,Oui,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,Oui,Non,0,1
+264,21,Interne,CP2,Cafè,Non,13:00:00,jamais,Non,correct,pas mal,Insatisfait,Moyennement satisfait,pas mal,Stresse,Non,3,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,0,1
+265,19,Interne,CP2,La Bibliothèque,Non,11:00:00,2 fois,Oui,trop intense,pas mal,Satisfait,Moyennement satisfait,pas mal,Normal,Non,2,Non,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Oui,0,1
+266,20,Interne,CP2,Chez moi,Oui,02:30:00,jamais,Oui,correct,faibles,Insatisfait,Moyennement satisfait,pas mal,Pas mal,Non,2,Oui,Non,Oui,Oui,Oui,Oui,Non,Non,Non,Non,Oui,Non,0,1
+267,21,Interne,GC,Chez moi,Non,01:30:00,3 fois,Oui,trop lent,faibles,Insatisfait,Insatisfait,pas mal,Stresse,Non,2,Non,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Oui,Non,0,1
+268,18,Externe,CP1,La Bibliothèque,Non,23:00:00,3 fois,Non,correct,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Oui,Oui,Oui,Oui,Non,Non,Non,Non,Non,Non,Non,Non,1,0
+269,22,Interne,GC,Chez moi,Non,02:00:00,2 fois,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Non,1,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,0,1
+270,20,Interne,CP1,Chez moi,Non,03:00:00,jamais,Non,correct,élevées,Satisfait,Satisfait,normal,Stresse,Non,2,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,1,0
+271,18,Interne,CP1,Chez moi,Non,01:00:00,3 fois,Non,trop lent,pas mal,Insatisfait,Insatisfait,pas mal,Normal,Non,1,Non,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Oui,Non,1,0
+272,18,Interne,CP1,Cafè,Oui,01:00:00,une fois,Oui,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,Non,3,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Oui,1,0
+273,19,Interne,CP1,Chez moi,Non,00:00:00,Occasionnellment,Non,trop lent,pas mal,Satisfait,Insatisfait,normal,Pas mal,Non,1,Non,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+274,18,Interne,CP1,Chez moi,Non,00:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Satisfait,Stressé,Pas mal,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Oui,Non,Non,1,0
+275,23,Externe,GC,Chez moi,Oui,01:30:00,Occasionnellment,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,normal,Normal,Non,1,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,Non,0,1
+276,18,Externe,CP1,Chez moi,Oui,00:00:00,Occasionnellment,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,Non,3,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Non,Oui,Non,0,1
+277,20,Interne,CP1,La Bibliothèque,Non,00:00:00,Occasionnellment,Oui,correct,pas mal,Satisfait,Insatisfait,pas mal,Normal,Oui,0,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Oui,Oui,Non,0,1
+278,21,Interne,GC,La Bibliothèque,Non,12:00:00,3 fois,Non,correct,faibles,Insatisfait,Moyennement satisfait,normal,Stresse,Oui,0,Non,Non,Oui,Oui,Non,Oui,Non,Non,Non,Non,Non,Non,0,1
+279,21,Externe,GC,La Bibliothèque,Oui,00:00:00,Occasionnellment,Oui,trop intense,faibles,Insatisfait,Insatisfait,pas mal,Stresse,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,Non,0,1
+280,19,Externe,CP1,Cafè,Non,04:00:00,jamais,Non,correct,faibles,Insatisfait,Insatisfait,pas mal,Normal,Non,1,Oui,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Non,Oui,0,1
+281,18,Interne,CP1,Cafè,Non,03:00:00,une fois,Non,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,Non,3,Non,Non,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,0,1
+282,22,Externe,GC,Cafè,Non,03:00:00,3 fois,Non,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Non,2,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Oui,Non,0,1
+283,18,Interne,CP1,Chez moi,Non,12:00:00,Occasionnellment,Non,correct,pas mal,Satisfait,Satisfait,pas mal,Pas mal,Non,2,Non,Non,Non,Non,Oui,Non,Non,Oui,Non,Oui,Non,Non,0,1
+284,18,Interne,CP1,Cafè,Oui,00:00:00,3 fois,Non,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,Oui,Oui,0,1
+285,21,Interne,GC,Chez moi,Non,01:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Normal,Oui,0,Non,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,0,1
+286,21,Interne,GC,Cafè,Non,01:00:00,Occasionnellment,Non,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+287,19,Externe,CP1,Chez moi,Non,01:00:00,Occasionnellment,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,2,Non,Non,Non,Non,Non,Oui,Non,Oui,Non,Non,Non,Oui,0,1
+288,18,Interne,CP1,La Bibliothèque,Non,01:45:00,Occasionnellment,Non,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Oui,Oui,Non,1,0
+289,19,Interne,CP2,Cafè,Non,01:30:00,une fois,Non,trop lent,pas mal,Moyennement satisfait,Satisfait,Stressé,Pas mal,Non,2,Non,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,0,1
+290,22,Interne,GI,Chez moi,Non,01:00:00,3 fois,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Oui,Oui,Oui,Non,Non,Non,Non,Oui,Non,0,1
+291,19,Externe,CP1,Chez moi,Oui,03:30:00,jamais,Non,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Non,Oui,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+292,19,Interne,CP2,Cafè,Non,03:00:00,2 fois,Oui,trop lent,faibles,Insatisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Non,Oui,Oui,Oui,Oui,Non,Non,Non,Oui,Non,Oui,Non,0,1
+293,24,Interne,GC,Chez moi,Oui,00:00:00,Occasionnellment,Non,correct,pas mal,Satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,Non,0,1
+294,21,Interne,GC,Chez moi,Non,01:00:00,jamais,Non,correct,faibles,Insatisfait,Insatisfait,Stressé,Normal,Non,1,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Oui,Non,1,0
+295,18,Interne,CP1,Chez moi,Non,12:00:00,2 fois,Non,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Normal,Non,1,Non,Non,Oui,Non,Non,Non,Non,Oui,Oui,Oui,Non,Non,0,1
+296,18,Interne,CP1,Chez moi,Non,00:00:00,2 fois,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Oui,0,1
+297,21,Interne,GC,Chez moi,Oui,00:00:00,jamais,Non,trop lent,faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,Oui,0,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,Non,Oui,Oui,Non,0,1
+298,18,Externe,CP1,Cafè,Oui,01:00:00,Occasionnellment,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,4,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,0,1
+299,21,Interne,GC,Chez moi,Oui,00:00:00,Occasionnellment,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+300,19,Externe,CP1,Chez moi,Non,03:00:00,une fois,Non,correct,pas mal,Satisfait,Insatisfait,pas mal,Pas mal,Non,4,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,Non,0,1
+301,19,Interne,CP1,La Bibliothèque,Oui,01:00:00,3 fois,Oui,correct,pas mal,Insatisfait,Insatisfait,pas mal,Normal,Oui,0,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Oui,Oui,Non,0,1
+302,22,Interne,GC,La Bibliothèque,Oui,01:00:00,jamais,Non,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Pas mal,Oui,0,Oui,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Oui,Non,1,0
+303,21,Externe,GEE,Chez moi,Non,00:00:00,jamais,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Non,Oui,Non,0,1
+304,18,Externe,CP1,Cafè,Non,01:00:00,Occasionnellment,Non,correct,faibles,Moyennement satisfait,Moyennement satisfait,normal,Normal,Non,1,Oui,Oui,Oui,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,0,1
+305,21,Interne,GC,Chez moi,Oui,00:00:00,jamais,Oui,trop intense,pas mal,Insatisfait,Moyennement satisfait,pas mal,Stresse,Non,1,Non,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Oui,Non,1,0
+306,20,Interne,CP2,Chez moi,Non,03:00:00,3 fois,Non,trop intense,pas mal,Insatisfait,Insatisfait,pas mal,Pas mal,Non,1,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Non,Non,Oui,Non,0,1
+307,22,Interne,GC,Chez moi,Non,00:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,1,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Oui,Non,Non,1,0
+308,19,Externe,CP2,Chez moi,Non,00:00:00,jamais,Non,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,Non,2,Oui,Oui,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Oui,1,0
+309,19,Interne,CP2,La Bibliothèque,Oui,00:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,3,Non,Non,Oui,Non,Oui,Oui,Non,Oui,Oui,Oui,Non,Oui,1,0
+310,19,Externe,CP2,Chez moi,Oui,04:30:00,jamais,Oui,trop intense,pas mal,Satisfait,Satisfait,Stressé,Pas mal,Oui,0,Non,Non,Oui,Oui,Oui,Non,Non,Non,Non,Non,Non,Non,1,0
+311,19,Interne,CP2,La Bibliothèque,Oui,00:00:00,jamais,Non,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Non,Non,Non,Non,Non,Non,Non,Non,Oui,Non,Non,Non,1,0
+312,20,Interne,CP2,Chez moi,Oui,01:00:00,Occasionnellment,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,Non,1,0
+313,19,Interne,CP2,Chez moi,Oui,01:00:00,Occasionnellment,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Oui,Oui,Oui,Oui,Non,Oui,Non,Oui,Non,Non,Non,Non,1,0
+314,20,Interne,CP2,Chez moi,Oui,01:30:00,Occasionnellment,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,0,1
+315,20,Interne,CP2,Cafè,Non,02:00:00,3 fois,Oui,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,Oui,3,Non,Oui,Oui,Oui,Non,Oui,Non,Non,Non,Non,Non,Oui,1,0
+316,19,Interne,CP2,Chez moi,Oui,01:00:00,3 fois,Oui,trop lent,faibles,Moyennement satisfait,Insatisfait,pas mal,Normal,Non,3,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+317,22,Interne,GC,Cafè,Oui,02:00:00,3 fois,Oui,correct,faibles,Insatisfait,Moyennement satisfait,normal,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Oui,Non,0,1
+318,19,Interne,CP2,La Bibliothèque,Non,10:20:00,3 fois,Non,trop lent,élevées,Insatisfait,Insatisfait,Stressé,Stresse,Oui,0,Oui,Non,Oui,Non,Non,Non,Non,Non,Non,Non,Non,Non,0,1
+319,19,Externe,CP2,La Bibliothèque,Non,01:00:00,3 fois,Non,trop intense,faibles,Insatisfait,Moyennement satisfait,Stressé,Normal,Non,3,Non,Non,Oui,Non,Non,Oui,Non,Oui,Oui,Non,Oui,Oui,0,1
+320,20,Interne,CP2,Chez moi,Non,01:00:00,Occasionnellment,Oui,correct,élevées,Satisfait,Moyennement satisfait,normal,Stresse,Oui,0,Non,Non,Non,Oui,Oui,Oui,Non,Non,Non,Non,Oui,Non,1,0
+321,18,Interne,CP1,La Bibliothèque,Non,23:00:00,jamais,Non,trop intense,élevées,Insatisfait,Moyennement satisfait,Stressé,Pas mal,Non,5,Oui,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Oui,Non,1,0
+322,19,Externe,CP2,Cafè,Non,04:00:00,une fois,Oui,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,5,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Oui,Oui,Non,0,1
+323,18,Interne,CP1,Chez moi,Non,01:00:00,jamais,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,Non,1,Non,Non,Non,Non,Oui,Oui,Non,Non,Non,Non,Non,Non,1,0
+324,18,Interne,CP1,La Bibliothèque,Oui,00:00:00,Occasionnellment,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,Oui,1,0
+325,19,Externe,CP2,Cafè,Oui,03:00:00,3 fois,Oui,correct,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,2,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Non,Non,Non,Oui,Non,0,1
+326,56,Externe,CP2,La Bibliothèque,Oui,00:45:00,une fois,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,3,Non,Non,Non,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,1,0
+327,19,Interne,CP2,Chez moi,Non,23:00:00,3 fois,Oui,correct,pas mal,Satisfait,Moyennement satisfait,normal,Stresse,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Non,Oui,Oui,1,0
+328,18,Interne,CP2,La Bibliothèque,Oui,00:00:00,Occasionnellment,Oui,correct,pas mal,Satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Oui,Non,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,Oui,1,0
+329,19,Externe,CP1,Chez moi,Non,01:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,Non,3,Non,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,0,1
+330,18,Externe,CP1,Chez moi,Non,12:00:00,Occasionnellment,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,4,Oui,Oui,Non,Oui,Oui,Non,Non,Non,Non,Non,Oui,Non,1,0
+331,19,Externe,CP2,Chez moi,Non,00:00:00,2 fois,Oui,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,Oui,0,Non,Oui,Non,Oui,Oui,Non,Non,Non,Non,Non,Oui,Non,1,0
+332,19,Interne,CP1,La Bibliothèque,Oui,11:00:00,jamais,Oui,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,3,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,1,0
+333,22,Interne,GC,Chez moi,Non,01:00:00,une fois,Oui,correct,faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,Oui,0,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Non,0,1
+334,17,Externe,CP1,Cafè,Oui,02:00:00,3 fois,Non,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Stresse,Oui,0,Oui,Oui,Oui,Oui,Oui,Non,Non,Non,Oui,Oui,Oui,Non,0,1
+335,19,Interne,CP1,La Bibliothèque,Oui,01:00:00,une fois,Non,correct,pas mal,Moyennement satisfait,Satisfait,normal,Pas mal,Non,1,Non,Non,Non,Oui,Non,Oui,Non,Non,Non,Non,Non,Oui,1,0
+336,19,Externe,CP2,Cafè,Non,02:00:00,Occasionnellment,Non,correct,pas mal,Satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Non,Non,Oui,0,1
+337,19,Externe,CP2,Chez moi,Non,03:00:00,Occasionnellment,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Oui,Non,Oui,Non,Non,Oui,Non,Oui,Oui,Non,1,0
+338,18,Externe,CP1,Cafè,Oui,03:00:00,jamais,Non,correct,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,Non,3,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,0,1
+339,19,Externe,CP2,La Bibliothèque,Non,02:00:00,Occasionnellment,Oui,correct,très élevées,Satisfait,Satisfait,normal,Normal,Non,3,Non,Non,Non,Non,Oui,Oui,Non,Non,Non,Non,Oui,Non,1,0
+340,19,Interne,CP2,Chez moi,Oui,02:00:00,Occasionnellment,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,Oui,1,0
+341,19,Externe,CP2,Chez moi,Non,00:00:00,une fois,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,Oui,0,Non,Oui,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,1,0
+342,19,Interne,CP2,La Bibliothèque,Non,02:00:00,3 fois,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,2,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,Oui,0,1
+343,20,Interne,CP2,La Bibliothèque,Oui,00:00:00,3 fois,Oui,correct,élevées,Satisfait,Moyennement satisfait,Stressé,Pas mal,Non,2,Non,Non,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Oui,Oui,0,1
+344,21,Interne,CP2,Chez moi,Non,02:00:00,3 fois,Oui,trop intense,élevées,Satisfait,Satisfait,pas mal,Pas mal,Oui,0,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Oui,0,1
+345,18,Externe,CP1,La Bibliothèque,Non,03:45:00,Occasionnellment,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,Non,2,Non,Non,Non,Oui,Non,Oui,Non,Non,Oui,Non,Oui,Non,1,0
+346,18,Interne,CP2,Chez moi,Oui,23:00:00,Occasionnellment,Oui,trop intense,pas mal,Satisfait,Moyennement satisfait,normal,Pas mal,Oui,0,Non,Non,Non,Oui,Non,Oui,Non,Oui,Non,Oui,Non,Non,1,0
+347,19,Externe,CP2,Chez moi,Oui,00:00:00,jamais,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,1,Non,Oui,Oui,Oui,Oui,Non,Non,Non,Oui,Non,Non,Oui,1,0
+348,18,Externe,CP2,Chez moi,Non,00:00:00,jamais,Non,correct,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,Non,1,Non,Non,Oui,Oui,Oui,Oui,Non,Non,Oui,Non,Oui,Non,1,0
+349,19,Externe,CP2,Cafè,Oui,03:00:00,Occasionnellment,Oui,trop lent,pas mal,Moyennement satisfait,Satisfait,normal,Pas mal,Non,1,Non,Oui,Non,Non,Oui,Oui,Non,Non,Oui,Non,Oui,Oui,0,1
+350,20,Externe,CP2,Chez moi,Non,00:00:00,jamais,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Oui,Non,Oui,Non,Non,Non,Oui,Non,Oui,Non,1,0
+351,19,Interne,CP2,Chez moi,Non,02:00:00,Occasionnellment,Non,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Oui,0,Non,Non,Oui,Oui,Oui,Oui,Non,Non,Non,Non,Non,Non,1,0
+352,20,Interne,CP2,Chez moi,Oui,23:00:00,3 fois,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Stresse,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Non,Oui,0,1
+353,19,Externe,CP2,Chez moi,Non,10:00:00,jamais,Non,trop lent,élevées,Moyennement satisfait,Insatisfait,pas mal,Normal,Oui,0,Non,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,0,1
+354,20,Externe,CP1,Chez moi,Oui,03:00:00,3 fois,Non,correct,faibles,Insatisfait,Insatisfait,normal,Normal,Non,1,Non,Oui,Oui,Oui,Non,Oui,Non,Oui,Oui,Non,Non,Non,0,1
+355,20,Externe,CP2,Chez moi,Oui,02:00:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Oui,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Non,Non,1,0
+356,19,Externe,CP2,Chez moi,Non,00:00:00,jamais,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Oui,Oui,Oui,0,1
+357,19,Externe,CP2,Chez moi,Non,01:30:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Non,3,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Oui,Non,1,0
+358,23,Interne,CP2,Cafè,Non,03:00:00,Occasionnellment,Non,trop lent,pas mal,Insatisfait,Insatisfait,Stressé,Normal,Non,3,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Oui,Non,Non,0,1
+359,19,Externe,CP2,Chez moi,Non,00:00:00,Occasionnellment,Non,correct,élevées,Satisfait,Satisfait,Stressé,Pas mal,Non,3,Non,Non,Oui,Oui,Oui,Non,Non,Non,Oui,Non,Non,Non,1,0
+360,19,Interne,CP1,La Bibliothèque,Non,02:00:00,Occasionnellment,Oui,trop intense,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,1,Non,Non,Oui,Oui,Non,Oui,Non,Oui,Non,Oui,Non,Oui,1,0
+361,19,Interne,CP1,Chez moi,Non,02:00:00,3 fois,Oui,correct,faibles,Insatisfait,Moyennement satisfait,pas mal,Pas mal,Non,1,Non,Non,Oui,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,1,0
+362,19,Externe,CP2,Chez moi,Non,03:00:00,2 fois,Non,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Stresse,Non,1,Non,Oui,Oui,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,1,0
+363,22,Externe,CP2,Chez moi,Non,02:00:00,jamais,Oui,trop lent,pas mal,Insatisfait,Insatisfait,pas mal,Pas mal,Oui,0,Non,Oui,Oui,Oui,Oui,Non,Non,Non,Oui,Non,Non,Non,0,1
+364,19,Externe,CP2,Chez moi,Non,01:00:00,Occasionnellment,Non,correct,élevées,Insatisfait,Insatisfait,Stressé,Stresse,Oui,0,Oui,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,1,0
+365,19,Externe,CP2,Chez moi,Non,00:30:00,jamais,Non,correct,pas mal,Moyennement satisfait,Insatisfait,pas mal,Pas mal,Non,3,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Oui,1,0
+366,20,Externe,CP2,Chez moi,Non,03:00:00,3 fois,Non,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Non,Oui,Oui,Non,Non,Non,Non,Non,Non,0,1
+367,20,Externe,CP2,Chez moi,Non,03:00:00,3 fois,Non,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Non,Oui,Oui,Non,Non,Non,Non,Non,Non,0,1
+368,19,Interne,CP2,La Bibliothèque,Non,23:00:00,Occasionnellment,Oui,trop lent,élevées,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Oui,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Oui,Non,Non,1,0
+369,21,Externe,CP2,Chez moi,Non,02:00:00,jamais,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,2,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Non,Non,0,1
+370,20,Externe,CP2,Chez moi,Non,01:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Non,3,Non,Oui,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,1,0
+371,19,Interne,CP2,Chez moi,Oui,00:00:00,Occasionnellment,Oui,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,Oui,0,Non,Non,Oui,Oui,Oui,Oui,Oui,Oui,Non,Oui,Non,Oui,1,0
+372,21,Externe,CP2,Chez moi,Non,00:00:00,Occasionnellment,Oui,trop intense,pas mal,Satisfait,Moyennement satisfait,pas mal,Normal,Oui,0,Non,Non,Non,Non,Non,Non,Non,Non,Oui,Non,Oui,Non,0,1
+373,19,Externe,CP2,Chez moi,Non,06:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,Oui,0,Oui,Non,Oui,Oui,Oui,Oui,Oui,Non,Non,Non,Oui,Non,0,1
+374,20,Externe,CP2,Chez moi,Non,01:00:00,3 fois,Non,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,5,Non,Oui,Oui,Non,Oui,Non,Non,Oui,Oui,Non,Non,Non,1,0
+375,20,Externe,CP2,Chez moi,Non,08:00:00,Occasionnellment,Oui,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,Non,3,Non,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Non,1,0
+376,21,Externe,GC,Chez moi,Non,01:00:00,Occasionnellment,Oui,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Non,1,0
+377,19,Interne,CP2,La Bibliothèque,Non,00:30:00,jamais,Oui,correct,pas mal,Moyennement satisfait,Insatisfait,pas mal,Normal,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,1,0
+378,19,Interne,CP2,Cafè,Non,12:00:00,3 fois,Non,trop intense,pas mal,Satisfait,Insatisfait,pas mal,Pas mal,Oui,0,Non,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Oui,Non,1,0
+379,19,Interne,Autre,Chez moi,Non,09:00:00,jamais,Non,trop lent,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,Non,2,Oui,Oui,Non,Oui,Oui,Oui,Oui,Oui,Non,Oui,Oui,Non,1,0
+380,19,Interne,CP2,La Bibliothèque,Non,12:00:00,Occasionnellment,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,Non,1,Non,Non,Oui,Non,Oui,Oui,Non,Oui,Oui,Oui,Non,Non,1,0
+381,18,Externe,CP1,Chez moi,Non,03:00:00,une fois,Non,correct,faibles,Insatisfait,Moyennement satisfait,normal,Normal,Oui,0,Non,Non,Oui,Non,Oui,Non,Non,Oui,Oui,Non,Oui,Non,0,1
+382,21,Interne,CP2,Chez moi,Oui,02:30:00,2 fois,Non,trop intense,très élevées,Insatisfait,Insatisfait,Stressé,Pas mal,Non,3,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,0,1
+383,19,Interne,CP2,Cafè,Non,04:00:00,Occasionnellment,Oui,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,0,1
+384,19,Externe,CP2,Chez moi,Non,23:00:00,3 fois,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,1,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,0,1
+385,19,Interne,CP2,Chez moi,Non,00:30:00,Occasionnellment,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,1,Non,Oui,Oui,Oui,Non,Oui,Non,Oui,Non,Non,Non,Non,1,0
+386,19,Externe,CP1,Chez moi,Non,01:00:00,Occasionnellment,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,2,Non,Non,Non,Non,Oui,Oui,Non,Oui,Non,Non,Non,Oui,0,1
+387,20,Interne,CP2,Chez moi,Oui,02:00:00,Occasionnellment,Oui,correct,élevées,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,1,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,1,0
+388,20,Externe,CP2,Cafè,Oui,01:00:00,3 fois,Oui,trop lent,faibles,Insatisfait,Insatisfait,normal,Normal,Non,1,Non,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,0,1
+389,19,Interne,CP2,Chez moi,Non,01:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Oui,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,Non,1,0
+390,19,Externe,CP2,Chez moi,Oui,23:00:00,Occasionnellment,Oui,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Pas mal,Oui,0,Non,Non,Non,Oui,Oui,Non,Non,Oui,Non,Non,Non,Non,1,0
+391,19,Externe,CP2,Chez moi,Non,02:00:00,3 fois,Non,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,Non,4,Non,Non,Non,Oui,Oui,Non,Non,Non,Oui,Non,Non,Non,0,1
+392,20,Interne,CP2,Chez moi,Non,01:00:00,Occasionnellment,Non,correct,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Non,Non,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+393,20,Interne,CP2,Cafè,Non,02:00:00,2 fois,Non,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,1,Non,Non,Non,Oui,Oui,Oui,Non,Oui,Oui,Non,Oui,Non,0,1
+394,20,Interne,CP2,Chez moi,Non,23:30:00,une fois,Non,trop lent,élevées,Satisfait,Moyennement satisfait,Stressé,Stresse,Oui,0,Non,Non,Oui,Non,Oui,Non,Non,Non,Oui,Non,Oui,Oui,1,0
+395,18,Interne,CP1,Cafè,Oui,00:30:00,Occasionnellment,Non,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,Non,2,Non,Oui,Non,Non,Oui,Non,Non,Non,Oui,Oui,Non,Non,1,0
+396,19,Interne,CP2,Chez moi,Oui,00:00:00,jamais,Non,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,Non,1,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Oui,0,1
+397,20,Externe,CP1,Cafè,Oui,03:00:00,Occasionnellment,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Oui,0,Non,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,0,1
+398,18,Interne,CP1,La Bibliothèque,Oui,00:00:00,Occasionnellment,Oui,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,Non,1,Non,Non,Non,Oui,Oui,Non,Non,Oui,Oui,Non,Oui,Oui,1,0
+399,20,Interne,CP2,Chez moi,Non,02:00:00,jamais,Non,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,Non,1,Oui,Non,Non,Oui,Oui,Oui,Non,Non,Non,Non,Non,Non,1,0
+400,18,Interne,CP1,Chez moi,Oui,04:00:00,3 fois,Oui,correct,faibles,Insatisfait,Moyennement satisfait,Stressé,Stresse,Non,4,Oui,Oui,Non,Oui,Non,Oui,Oui,Oui,Non,Non,Oui,Non,0,1
+401,19,Interne,CP2,Chez moi,Non,00:00:00,Occasionnellment,Oui,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,Oui,0,Non,Non,Non,Oui,Non,Oui,Non,Non,Non,Non,Oui,Oui,1,0

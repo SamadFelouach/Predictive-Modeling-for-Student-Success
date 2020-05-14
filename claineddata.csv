@@ -1,0 +1,403 @@
+,sexe,age,logement,filiere,endroit_travail,travail_equipe ,heure_dormir ,sport_par_sem,activites_para,rythme_formation ,compétences_enseignants ,communication_enseignants,méthodes_pédagogiques,etat_psychique_preparation ,etat_psychique_examen,resultat_etudiant,nombre_rattrapage,services_bibliothèques,transport_scolaire,orientation,ressources_materials,Mauvais_Gestion_temps,qualite_logement,addiction_drogues,mauvais_choix_de_cours,réseaux_sociaux,Barrieres_de_langage,l'entourage,gaming
+0,Homme,21,Interne,GI,Cafè,0,00:00:00,parfois,1,correct,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,0,1,1,0,0,0,1,1,0
+1,Homme,18,Interne,CP1,La Bibliothèque,0,02:00:00,toujours,1,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,5,0,0,0,1,1,1,0,1,1,1,0,1
+2,Homme,21,Interne,GI,Cafè,1,01:00:00,quelquefois,1,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,semestre_Valide,0,0,0,0,1,1,1,0,0,1,1,0,1
+3,Homme,18,Externe,CP2,Cafè,1,02:00:00,toujours,1,correct,faibles,Moyennement satisfait,Moyennement satisfait,normal,Pas mal,semestre_Rattrapage,1,0,1,0,0,0,0,0,1,1,0,0,0
+4,Homme,21,Interne,GC,Chez moi,1,01:00:00,quelquefois,0,trop lent,faibles,Satisfait,Satisfait,normal,Normal,semestre_Valide,0,1,1,1,1,0,1,0,0,0,1,1,0
+5,Homme,20,Externe,CP2,Cafè,1,02:00:00,quelquefois,1,correct,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,1,0,1,1,1,1,0,1,0,0,1,0
+6,Homme,22,Externe,GI,Cafè,0,03:00:00,parfois,0,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,4,0,0,1,1,1,1,1,1,0,1,1,0
+7,Homme,20,Interne,CP2,Chez moi,1,00:00:00,parfois,0,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,4,0,0,1,0,0,0,0,0,1,0,1,1
+8,Homme,20,Interne,GI,Cafè,0,02:00:00,jamais,0,correct,faibles,Satisfait,Satisfait,Stressé,Stresse,semestre_Rattrapage,4,0,0,0,1,1,1,0,1,1,1,0,0
+9,Homme,23,Interne,GI,Chez moi,1,01:30:00,parfois,1,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Normal,semestre_Valide,0,0,1,0,1,0,0,1,0,1,1,0,0
+10,Homme,23,Externe,GEER,Chez moi,0,02:00:00,jamais,0,trop lent,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,1,1,0,1,1,1,1,0,1,1,0,1,0
+11,Femme,22,Interne,GI,Cafè,1,02:00:00,jamais,0,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Valide,0,0,0,1,1,1,1,0,1,0,0,0,0
+12,Femme,22,Interne,GI,La Bibliothèque,0,00:00:00,quelquefois,0,trop intense,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,1,0,1,1,1,1,0,1,1,0,1,0
+13,Homme,21,Externe,GI,Chez moi,1,00:00:00,quelquefois,0,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,5,0,0,0,0,0,0,0,0,0,0,0,0
+14,Homme,21,Externe,GC,Chez moi,1,03:00:00,quelquefois,1,correct,très faibles,Moyennement satisfait,Insatisfait,normal,Stresse,semestre_Valide,0,0,0,0,1,0,0,0,0,1,0,0,0
+15,Homme,22,Interne,GI,Chez moi,1,03:00:00,quelquefois,1,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,5,0,0,0,0,1,1,0,1,0,0,1,1
+16,Homme,22,Externe,GI,Cafè,1,04:00:00,jamais,0,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,1,0,0,0,0,1,1,1,1,0,1,0,0
+17,Femme,21,Interne,GI,La Bibliothèque,0,01:00:00,parfois,1,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,0,1,0,0,1,0,1,0,1,0,0,0,0
+18,Homme,22,Externe,GEE,Cafè,1,01:00:00,parfois,1,trop lent,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,2,0,0,1,1,1,0,1,1,0,0,0,0
+19,Homme,23,Externe,GI,Cafè,0,03:00:00,jamais,0,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,3,0,0,1,1,1,1,1,1,0,1,1,0
+20,Homme,21,Interne,GI,Cafè,0,02:00:00,quelquefois,1,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,0,0,1,1,0,1,1,0,1,0
+21,Homme,19,Interne,CP2,La Bibliothèque,0,11:00:00,parfois,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Rattrapage,2,0,0,0,0,1,1,0,1,1,0,1,0
+22,Homme,21,Interne,GI,Chez moi,0,00:00:00,quelquefois,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,0,1,0,0,0,0,1,0,0,0
+23,Homme,23,Interne,GI,Cafè,0,11:00:00,toujours,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,normal,Normal,semestre_Rattrapage,5,1,1,1,1,1,1,1,1,1,1,1,1
+24,Homme,19,Interne,CP2,Chez moi,0,23:30:00,quelquefois,1,trop lent,très faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,1,1,1,1,0,1,0,1,0,0
+25,Homme,20,Interne,GI,Cafè,0,04:00:00,jamais,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,semestre_Rattrapage,2,0,0,0,0,1,1,0,1,1,0,1,0
+26,Homme,22,Interne,GI,Chez moi,0,01:00:00,rarement,0,trop intense,très faibles,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,0,1,0,1,1,1,1,0,1,1,1,1,0
+27,Homme,23,Externe,GI,Cafè,0,01:00:00,parfois,1,correct,pas mal,Satisfait,Insatisfait,normal,Normal,semestre_Valide,0,0,1,0,1,1,0,0,1,0,0,0,0
+28,Homme,21,Interne,GI,Chez moi,0,01:00:00,quelquefois,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,1,0,1,1,1,1,1,0,1,1,0,1,0
+29,Homme,21,Interne,GEE,Cafè,1,00:00:00,quelquefois,1,trop lent,pas mal,Insatisfait,Insatisfait,normal,Normal,semestre_Valide,0,0,1,1,1,1,1,0,0,1,1,1,0
+30,Homme,21,Interne,GC,Chez moi,1,01:00:00,quelquefois,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,semestre_Rattrapage,1,0,0,0,1,1,0,0,1,0,1,0,0
+31,Femme,22,Interne,GI,La Bibliothèque,0,01:00:00,jamais,1,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,4,1,1,1,1,0,1,0,1,1,0,1,0
+32,Homme,22,Externe,GI,Chez moi,0,01:00:00,parfois,1,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,0,0,0,1,0,1,0
+33,Homme,20,Interne,CP2,Chez moi,1,02:00:00,jamais,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Pas mal,semestre_Rattrapage,2,0,0,0,0,1,0,0,0,0,1,0,0
+34,Homme,23,Externe,GC,Cafè,0,02:00:00,jamais,0,trop intense,faibles,Insatisfait,Insatisfait,pas mal,Normal,semestre_Rattrapage,1,0,0,0,1,1,1,0,1,1,0,1,0
+35,Homme,21,Externe,GI,Chez moi,0,05:00:00,quelquefois,0,trop lent,faibles,Moyennement satisfait,Insatisfait,normal,Stresse,semestre_Valide,0,0,0,0,0,1,0,0,0,0,0,0,1
+36,Homme,20,Interne,GI,Cafè,0,03:00:00,quelquefois,0,correct,élevées,Satisfait,Satisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,0,1,1,0,0,1,1,0,1,0
+37,Femme,22,Interne,GEER,Cafè,1,01:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,semestre_Rattrapage,2,0,0,1,0,1,0,0,0,0,0,0,0
+38,Homme,23,Interne,GI,Cafè,1,04:00:00,jamais,0,trop intense,pas mal,Satisfait,Satisfait,Stressé,Normal,semestre_Rattrapage,2,0,0,0,0,1,0,1,0,0,0,0,0
+39,Homme,21,Externe,GEE,Chez moi,1,03:00:00,parfois,0,correct,pas mal,Satisfait,Insatisfait,normal,Normal,semestre_Valide,0,0,0,0,1,1,0,0,0,0,0,0,1
+40,Femme,22,Interne,GC,Cafè,0,01:00:00,quelquefois,1,trop lent,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,3,0,0,0,0,1,0,0,1,0,1,1,0
+41,Homme,21,Interne,GI,Cafè,0,04:00:00,quelquefois,0,trop lent,pas mal,Satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,1,0,1,1,1,1,0,1,1,0,1,0
+42,Homme,22,Interne,GI,Chez moi,0,01:40:00,jamais,0,correct,pas mal,Insatisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,1,1,0,1,1,1,1,0,0,1,1,1,1
+43,Homme,23,Externe,GC,Cafè,1,04:00:00,quelquefois,1,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,0,0,1,0,0,1,0,0,0,0
+44,Homme,23,Externe,GI,Cafè,1,12:00:00,jamais,1,correct,élevées,Insatisfait,Moyennement satisfait,pas mal,Stresse,semestre_Valide,0,0,0,0,0,1,0,0,1,1,1,1,1
+45,Homme,21,Interne,GI,Chez moi,0,02:00:00,jamais,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,1,0,0,0,1,1,1,0,1,1,1,0,0
+46,Homme,22,Externe,GI,Cafè,0,03:00:00,jamais,0,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Valide,0,0,0,0,0,1,0,0,0,1,0,0,0
+47,Homme,22,Interne,GI,Cafè,1,01:00:00,parfois,0,trop intense,faibles,Moyennement satisfait,Insatisfait,normal,Normal,semestre_Valide,0,1,0,0,1,1,1,0,1,0,0,0,0
+48,Homme,21,Interne,GC,Cafè,0,01:00:00,quelquefois,1,trop lent,faibles,Satisfait,Insatisfait,normal,Normal,semestre_Valide,0,0,0,0,1,0,0,0,1,0,1,1,1
+49,Homme,23,Interne,GI,Cafè,1,03:00:00,parfois,1,trop lent,très faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,semestre_Valide,0,0,0,0,1,1,0,0,1,0,0,0,0
+50,Femme,23,Externe,GEE,Chez moi,0,00:30:00,jamais,0,correct,élevées,Satisfait,Satisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,0,0,0,0,0,1,0,0,0,0
+51,Homme,21,Interne,GC,Cafè,0,01:00:00,parfois,1,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,1,1,0,0,1,0,0,0,0
+52,Homme,22,Externe,GI,Cafè,0,03:00:00,jamais,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,1,0,0,0,1,1,1,1,1,0,1,0,0
+53,Homme,20,Interne,GI,Cafè,1,01:00:00,jamais,1,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,1,1,1,1,0,1,1,0,0,1
+54,Femme,21,Interne,GI,Chez moi,0,01:00:00,jamais,0,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,0,0,1,0,0,0,0,0,1,0
+55,Homme,20,Externe,CP2,Chez moi,0,05:00:00,jamais,0,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,0,0,0,0,0,1,0,0,0,1,0,0,0
+56,Homme,22,Externe,GI,Chez moi,0,02:30:00,quelquefois,0,trop intense,pas mal,Satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Valide,1,0,0,0,0,1,1,0,1,0,1,1,1
+57,Femme,18,Interne,CP1,Chez moi,0,00:30:00,jamais,0,trop lent,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,0,1,1,1,0,1,1,1,1,1,1,1
+58,Femme,19,Interne,CP2,Chez moi,0,01:00:00,jamais,1,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,1,0,0,1,1,1,0,0,1,1,0,1,0
+59,Homme,23,Externe,GEER,Cafè,1,02:00:00,quelquefois,1,trop lent,pas mal,Insatisfait,Insatisfait,normal,Normal,semestre_Rattrapage,1,0,0,0,1,0,0,0,0,1,0,1,0
+60,Homme,25,Interne,GC,Cafè,1,02:00:00,rarement,1,correct,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,0,0,1,1,1,1,0,1,0,0,0,0
+61,Homme,23,Interne,GI,Cafè,0,01:00:00,parfois,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,0,0,1,1,1,1,0,0,1,0
+62,Homme,20,Externe,CP2,La Bibliothèque,0,03:00:00,parfois,0,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,2,0,0,0,1,1,1,0,1,1,0,0,1
+63,Femme,20,Interne,CP2,Chez moi,0,03:00:00,jamais,1,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Valide,1,0,0,1,1,1,1,0,1,0,0,0,0
+64,Homme,23,Externe,GEE,Chez moi,1,01:00:00,parfois,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Rattrapage,2,0,0,1,1,1,0,1,0,0,0,1,0
+65,Homme,19,Interne,CP1,Chez moi,1,00:00:00,toujours,1,correct,élevées,Insatisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,4,0,0,0,1,1,1,0,0,1,0,0,0
+66,Femme,22,Interne,GC,Chez moi,0,00:30:00,jamais,0,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,0,0,0,0,0,1,0,0,0,1,1,1,0
+67,Homme,19,Externe,CP1,Cafè,0,04:00:00,jamais,0,correct,pas mal,Insatisfait,Insatisfait,normal,Normal,semestre_Rattrapage,1,0,0,0,0,1,1,0,0,1,1,0,1
+68,Femme,20,Externe,GC,Chez moi,0,01:00:00,parfois,1,trop intense,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,1,0,0,1,1,1,0,0,0,1,0,0,0
+69,Homme,19,Interne,CP2,Cafè,1,02:00:00,quelquefois,1,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,1,1,0,1,0,1,0,0,0,0
+70,Homme,20,Interne,GI,Cafè,1,02:00:00,parfois,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,0,0,1,1,0,0,1,0,0,0
+71,Femme,18,Externe,CP1,La Bibliothèque,1,12:30:00,jamais,1,correct,faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Rattrapage,3,0,0,0,0,1,0,0,0,1,0,1,0
+72,Femme,20,Interne,GC,Chez moi,0,02:00:00,quelquefois,1,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,1,0,1,0,0,1,0
+73,Femme,18,Externe,CP1,Chez moi,0,04:00:00,parfois,1,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,0,0,1,0,1,1,0
+74,Homme,18,Externe,CP1,Chez moi,1,04:00:00,parfois,0,correct,faibles,Insatisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,0,0,0,0,1,0,0,1,1,0,1,0
+75,Femme,21,Interne,GC,Chez moi,0,23:00:00,quelquefois,1,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,0,0,1,0,0,0,0,1,0,0
+76,Homme,23,Interne,GI,Cafè,0,01:00:00,jamais,0,correct,faibles,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,2,1,0,0,1,1,1,0,1,1,0,1,0
+77,Homme,20,Interne,CP2,La Bibliothèque,0,01:00:00,jamais,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,1,0,1,0,1,0,0,1,0,0,1,0
+78,Femme,17,Interne,CP1,La Bibliothèque,1,02:30:00,jamais,0,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,1,1,0,0,0,1,1,0,1,1,0,1,0
+79,Homme,20,Interne,CP1,Chez moi,0,01:30:00,jamais,1,correct,pas mal,Insatisfait,Satisfait,pas mal,Normal,semestre_Rattrapage,4,1,0,0,0,1,1,1,1,1,1,0,0
+80,Femme,20,Externe,GI,Chez moi,0,03:00:00,jamais,0,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,1,0,1,0,0,1,1,0,1,1,1,1,0
+81,Femme,20,Interne,GEE,Cafè,1,02:00:00,parfois,1,trop intense,pas mal,Moyennement satisfait,Insatisfait,normal,Stresse,semestre_Valide,0,0,0,1,1,1,0,0,1,1,0,1,0
+82,Homme,22,Externe,GEE,Cafè,1,02:00:00,quelquefois,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,pas mal,Pas mal,semestre_Valide,0,1,0,1,1,1,0,0,1,1,0,0,0
+83,Homme,22,Externe,GEER,Cafè,1,02:00:00,parfois,0,correct,pas mal,Satisfait,Insatisfait,normal,Normal,semestre_Rattrapage,1,0,0,0,1,0,1,0,1,0,0,1,0
+84,Femme,23,Interne,GEE,Chez moi,1,03:00:00,parfois,1,correct,très faibles,Moyennement satisfait,Insatisfait,normal,Normal,semestre_Rattrapage,1,0,0,0,0,1,0,0,0,0,0,0,0
+85,Homme,20,Externe,CP1,Cafè,1,05:00:00,jamais,1,trop lent,très faibles,Insatisfait,Insatisfait,normal,Normal,semestre_Rattrapage,3,0,1,1,1,0,1,0,1,0,0,1,0
+86,Femme,21,Externe,GI,Chez moi,0,00:00:00,jamais,0,trop lent,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,5,1,0,1,0,1,0,0,1,0,1,1,0
+87,Homme,18,Externe,CP1,Cafè,1,05:00:00,toujours,1,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,3,0,0,0,0,1,0,0,1,1,0,1,0
+88,Homme,19,Externe,CP2,Cafè,0,05:00:00,parfois,1,trop lent,très faibles,Insatisfait,Insatisfait,pas mal,Normal,semestre_Rattrapage,3,0,0,0,1,1,1,0,1,1,0,1,0
+89,Femme,21,Interne,CP2,Chez moi,0,01:00:00,quelquefois,1,trop lent,très faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Rattrapage,2,0,0,1,1,1,0,0,1,1,1,1,1
+90,Homme,20,Externe,GEER,Cafè,1,01:00:00,parfois,0,trop lent,pas mal,Insatisfait,Insatisfait,normal,Normal,semestre_Rattrapage,4,0,0,0,1,1,0,0,1,1,0,0,0
+91,Homme,24,Interne,GC,Chez moi,0,04:30:00,jamais,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,0,0,0,0,0,0,0
+92,Homme,23,Externe,GI,Cafè,0,02:00:00,quelquefois,0,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,semestre_Rattrapage,1,0,0,0,0,1,0,0,1,0,0,1,0
+93,Homme,22,Interne,GI,Cafè,1,02:00:00,parfois,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,2,0,0,0,0,1,1,1,1,0,0,1,0
+94,Homme,25,Externe,GEE,La Bibliothèque,1,00:00:00,parfois,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,1,1,0,1,1,1,1,0,1,0,1,1,0
+95,Femme,20,Interne,GI,Cafè,0,01:00:00,parfois,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,semestre_Valide,0,0,0,1,0,1,0,0,1,1,1,1,0
+96,Homme,20,Externe,CP2,Chez moi,0,02:00:00,quelquefois,1,correct,faibles,Insatisfait,Insatisfait,normal,Normal,semestre_Rattrapage,1,0,1,1,1,1,0,0,1,0,0,1,0
+97,Homme,18,Interne,CP1,Chez moi,1,01:00:00,parfois,1,trop lent,pas mal,Satisfait,Insatisfait,pas mal,Normal,semestre_Rattrapage,1,0,1,1,1,0,1,0,1,0,1,0,0
+98,Femme,22,Externe,GEER,Cafè,1,00:00:00,jamais,1,trop lent,pas mal,Satisfait,Moyennement satisfait,normal,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,0,0,0,1,0,1,1
+99,Femme,18,Interne,CP1,La Bibliothèque,1,00:30:00,parfois,1,trop lent,pas mal,Satisfait,Moyennement satisfait,pas mal,Normal,semestre_Rattrapage,1,0,0,1,1,1,1,0,1,1,1,1,0
+100,Homme,22,Interne,GI,Chez moi,0,01:00:00,jamais,0,trop intense,élevées,Insatisfait,Insatisfait,pas mal,Pas mal,semestre_Valide,0,0,0,0,1,1,0,0,0,1,0,1,0
+101,Femme,22,Interne,GC,Chez moi,0,01:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,0,0,1,0,0,1,0,1,0,0
+102,Homme,21,Externe,GC,Chez moi,1,04:00:00,quelquefois,1,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Normal,semestre_Rattrapage,4,0,0,0,1,1,0,0,1,0,0,1,0
+103,Femme,21,Interne,GI,Chez moi,0,01:30:00,jamais,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,semestre_Rattrapage,1,0,0,0,1,1,1,1,1,1,1,0,1
+104,Femme,22,Externe,GI,Chez moi,1,03:00:00,jamais,1,trop lent,pas mal,Satisfait,Insatisfait,Stressé,Normal,semestre_Valide,0,1,1,0,0,1,0,0,1,0,0,1,0
+105,Femme,23,Interne,CP1,La Bibliothèque,0,04:00:00,parfois,0,trop lent,pas mal,Moyennement satisfait,Satisfait,Stressé,Stresse,semestre_Valide,1,0,0,0,1,1,0,1,1,0,0,0,0
+106,Homme,21,Interne,GI,Chez moi,0,00:00:00,jamais,0,trop lent,élevées,Satisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,1,0,0,0,0,1,1,0,1,1,0,1,0
+107,Femme,21,Externe,GEER,La Bibliothèque,1,12:00:00,parfois,1,correct,élevées,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Valide,0,0,0,0,1,1,0,1,1,1,1,0,0
+108,Femme,19,Externe,GC,Chez moi,1,02:00:00,parfois,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,semestre_Valide,0,1,1,0,0,0,0,0,0,0,0,0,0
+109,Homme,22,Externe,GEE,Cafè,1,00:00:00,parfois,1,trop lent,pas mal,Satisfait,Satisfait,normal,Normal,semestre_Rattrapage,1,1,1,1,1,1,1,1,1,1,1,1,1
+110,Homme,18,Interne,CP1,La Bibliothèque,1,01:15:00,parfois,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,0,0,0,0,0,1,1,0,0,0
+111,Homme,22,Interne,GI,Cafè,0,02:00:00,quelquefois,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,3,0,0,1,0,1,0,0,1,1,1,0,1
+112,Homme,22,Externe,GEE,La Bibliothèque,1,23:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,1,0,0,1,0,1,0,1,0,1,0
+113,Femme,23,Externe,GC,La Bibliothèque,1,23:00:00,jamais,0,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,0,0,1,0,1,1,0,0,1,1,0,0
+114,Femme,18,Interne,CP1,La Bibliothèque,0,01:00:00,jamais,1,trop lent,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,1,0,0,1,0,1,0
+115,Homme,19,Externe,CP1,Chez moi,1,12:45:00,jamais,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,2,0,1,0,0,1,0,0,1,1,1,0,0
+116,Femme,21,Externe,GC,Chez moi,0,03:00:00,jamais,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,1,1,0,0,1,0,1,0,1,0,0,0
+117,Homme,19,Interne,CP1,Cafè,0,00:00:00,jamais,0,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,0,0,1,0,1,0,0,0,1,1
+118,Homme,23,Interne,GC,Cafè,1,23:00:00,parfois,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,2,1,0,1,1,1,1,1,1,1,1,0,1
+119,Femme,19,Interne,CP1,Chez moi,0,22:00:00,parfois,1,correct,élevées,Satisfait,Satisfait,Stressé,Normal,semestre_Rattrapage,2,1,1,0,0,1,1,1,1,0,1,1,0
+120,Homme,20,Interne,GI,Chez moi,0,02:00:00,parfois,1,trop lent,pas mal,Insatisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,1,1,1,1,0,1,1,0,0,0,0,0,0
+121,Femme,23,Externe,GEE,Chez moi,1,00:30:00,jamais,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,1,1,0,1,1,1,0,1,0,0,0,0
+122,Femme,21,Externe,GI,Chez moi,0,00:30:00,quelquefois,0,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,0,0,0,1,1,1,0,0,1,0,0,0,0
+123,Femme,23,Interne,GEER,Cafè,1,01:00:00,parfois,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,1,0,0,0,0,0,0
+124,Homme,22,Interne,GI,Chez moi,0,02:00:00,quelquefois,1,trop intense,faibles,Insatisfait,Insatisfait,normal,Normal,semestre_Rattrapage,4,0,0,1,1,1,1,0,1,0,0,0,0
+125,Homme,21,Interne,GC,Chez moi,1,01:00:00,toujours,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,pas mal,Normal,semestre_Valide,0,0,0,1,1,1,1,0,0,0,0,1,0
+126,Femme,22,Interne,GI,Chez moi,0,23:00:00,jamais,0,trop intense,élevées,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Valide,0,0,0,1,1,1,1,0,1,0,0,0,0
+127,Homme,22,Externe,GEER,Cafè,0,01:00:00,parfois,0,trop lent,très faibles,Satisfait,Insatisfait,normal,Normal,semestre_Rattrapage,2,0,0,0,1,1,0,0,0,0,0,0,1
+128,Homme,23,Interne,GC,La Bibliothèque,1,02:02:00,jamais,0,trop lent,très faibles,Insatisfait,Satisfait,pas mal,Pas mal,semestre_Valide,1,0,1,0,1,0,1,0,1,0,1,0,1
+129,Femme,18,Externe,CP1,La Bibliothèque,0,01:00:00,jamais,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,3,0,0,0,0,1,1,0,1,1,0,0,0
+130,Homme,20,Externe,CP1,La Bibliothèque,0,00:00:00,parfois,0,trop lent,pas mal,Moyennement satisfait,Insatisfait,normal,Pas mal,semestre_Rattrapage,2,1,1,0,1,1,0,0,0,0,0,0,0
+131,Femme,19,Externe,CP1,Chez moi,0,02:00:00,jamais,0,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,3,0,1,1,1,1,1,0,1,1,1,1,1
+132,Homme,19,Externe,CP1,Chez moi,0,01:00:00,jamais,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,0,0,1,0,0,1,1,0,0,0
+133,Femme,17,Externe,CP1,Chez moi,0,02:00:00,jamais,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,semestre_Rattrapage,1,0,0,1,0,1,0,0,1,1,0,1,0
+134,Femme,18,Externe,CP1,Chez moi,0,01:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,1,0,0,1,0,0,0,0,0,0,0,0,0
+135,Femme,19,Externe,CP1,Cafè,0,00:00:00,parfois,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,2,1,0,0,1,1,0,0,1,1,1,0,1
+136,Homme,18,Externe,CP1,Chez moi,0,11:30:00,parfois,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,1,0,1,0,0,1,0,0,0,0,0,0,1
+137,Femme,19,Externe,CP1,La Bibliothèque,0,03:00:00,jamais,0,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,0,1,1,1,1,1,0,0,1,0,1,0
+138,Femme,18,Interne,CP1,La Bibliothèque,0,01:50:00,parfois,0,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,3,0,0,1,0,1,0,0,1,1,0,1,0
+139,Homme,20,Interne,CP1,Chez moi,1,23:00:00,quelquefois,1,correct,pas mal,Satisfait,Satisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,0,0,1,0,0,0,1,0,0,0
+140,Femme,19,Externe,CP1,La Bibliothèque,0,01:00:00,parfois,1,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,1,1,1,0,0,1,1,0,0,0
+141,Homme,19,Externe,CP1,Cafè,1,01:00:00,quelquefois,0,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Normal,semestre_Rattrapage,2,0,1,0,1,1,0,0,1,0,0,1,0
+142,Homme,19,Interne,CP1,Chez moi,0,01:00:00,parfois,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Valide,1,0,0,1,1,1,1,1,1,0,0,0,0
+143,Femme,18,Externe,CP1,La Bibliothèque,0,01:00:00,jamais,1,trop lent,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,1,1,1,1,0,1,1,1,0,0
+144,Homme,18,Externe,CP1,Chez moi,0,02:00:00,parfois,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,3,0,0,0,0,1,0,0,1,0,0,0,0
+145,Femme,18,Interne,CP1,Chez moi,0,02:15:00,jamais,0,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Normal,semestre_Rattrapage,3,1,0,1,1,1,1,0,1,1,0,1,1
+146,Femme,18,Externe,CP1,Cafè,0,01:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,4,0,0,0,0,1,0,0,1,1,0,0,0
+147,Femme,19,Externe,CP1,Chez moi,0,02:00:00,jamais,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,4,0,0,1,0,1,0,0,0,0,0,0,1
+148,Homme,19,Externe,CP1,Chez moi,0,00:00:00,jamais,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,0,0,1,0,0,0,0,0,0,0
+149,Homme,18,Interne,CP1,Chez moi,1,00:45:00,quelquefois,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,semestre_Rattrapage,3,0,0,1,0,1,0,0,1,1,0,0,0
+150,Femme,19,Interne,CP1,Chez moi,0,00:00:00,jamais,0,correct,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,0,1,1,1,1,1,1,0,0,0,0,0,0
+151,Homme,22,Externe,GI,Chez moi,0,00:00:00,parfois,0,correct,élevées,Satisfait,Moyennement satisfait,Stressé,Normal,semestre_Valide,0,0,0,0,0,1,1,0,1,0,0,0,0
+152,Homme,17,Externe,CP1,Chez moi,0,03:00:00,jamais,0,trop lent,pas mal,Satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,2,0,0,1,0,0,0,0,0,0,0,0,0
+153,Femme,20,Externe,GI,Cafè,0,23:50:00,parfois,1,trop lent,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,0,0,0,0,1,0,0,1,1,0,1,0
+154,Femme,22,Interne,GEER,Cafè,1,02:00:00,jamais,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,1,1,1,0,1,1,1,0,1,1,0
+155,Homme,17,Interne,CP1,La Bibliothèque,0,00:00:00,jamais,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,1,0,0,0,0,1,0,0,0,0,0,1,0
+156,Homme,21,Externe,GI,Chez moi,0,02:00:00,parfois,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,1,0,0,1,1,1,1,1,1,1,1,1
+157,Homme,21,Interne,GEER,Chez moi,1,03:00:00,parfois,1,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,4,0,1,1,1,1,0,0,1,0,0,0,0
+158,Homme,21,Externe,GI,Chez moi,0,01:00:00,quelquefois,0,correct,faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Valide,0,0,1,0,1,0,0,0,0,1,0,0,1
+159,Homme,21,Externe,GI,Cafè,0,12:30:00,jamais,0,trop lent,très faibles,Moyennement satisfait,Insatisfait,normal,Normal,semestre_Rattrapage,1,0,0,0,0,0,0,0,0,0,0,0,0
+160,Femme,22,Interne,GC,Cafè,1,02:00:00,jamais,1,trop intense,pas mal,Satisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,0,0,0,1,1,1,1,0,1,1,1,1,0
+161,Homme,19,Interne,CP1,Chez moi,0,02:00:00,quelquefois,0,correct,faibles,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,3,0,0,0,1,1,0,0,1,0,0,0,0
+162,Femme,17,Interne,CP1,La Bibliothèque,1,03:00:00,quelquefois,1,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,1,0,1,1,0,1,1,0,1,1
+163,Femme,21,Interne,GEER,Cafè,0,00:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,1,0,1,0,0,0,0,1,0
+164,Femme,18,Interne,CP1,La Bibliothèque,1,03:00:00,jamais,0,trop intense,pas mal,Satisfait,Moyennement satisfait,Stressé,Normal,semestre_Rattrapage,3,0,0,0,1,1,1,0,0,0,0,1,0
+165,Femme,18,Externe,CP1,Cafè,0,00:30:00,jamais,1,trop lent,élevées,Satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,2,0,0,1,1,1,0,0,1,1,1,1,0
+166,Femme,22,Interne,GC,Cafè,1,01:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,0,1,1,1,0,1,1,0,1,0
+167,Femme,22,Interne,GI,Chez moi,0,00:00:00,parfois,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,0,1,0,0,0,0,1,1,0
+168,Homme,19,Interne,CP1,Chez moi,0,02:00:00,quelquefois,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,0,0,0,1,0,1,0
+169,Homme,18,Externe,CP1,Cafè,1,01:00:00,rarement,0,correct,pas mal,Insatisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,1,1,0,1,0,1,1,0,0,1,0,0,0
+170,Femme,18,Externe,CP1,Cafè,0,12:30:00,jamais,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,semestre_Rattrapage,3,1,0,0,0,1,0,0,0,0,0,0,0
+171,Femme,21,Externe,GI,Chez moi,0,00:00:00,jamais,0,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,0,1,0,0,0,1,0,0,0
+172,Femme,18,Externe,CP1,Chez moi,1,01:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,1,1,0,0,0,0,1,1,1,0
+173,Femme,18,Interne,CP1,La Bibliothèque,1,12:00:00,quelquefois,1,trop lent,pas mal,Satisfait,Insatisfait,Stressé,Normal,semestre_Valide,0,0,0,0,1,1,1,0,0,1,0,1,1
+174,Homme,20,Interne,CP1,Cafè,1,03:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,4,0,0,0,0,1,0,0,0,0,0,0,1
+175,Femme,21,Interne,GEER,Cafè,0,02:00:00,parfois,0,trop intense,pas mal,Insatisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,0,1,0,0,0,0,0,0,0,0
+176,Homme,18,Externe,CP1,Chez moi,0,02:00:00,parfois,1,correct,très faibles,Insatisfait,Insatisfait,normal,Normal,semestre_Rattrapage,2,0,0,0,1,0,0,0,1,1,0,0,0
+177,Femme,18,Externe,CP1,Cafè,0,02:00:00,quelquefois,1,correct,faibles,Moyennement satisfait,Insatisfait,normal,Normal,semestre_Rattrapage,1,0,0,1,0,1,0,0,1,1,0,0,0
+178,Homme,19,Interne,CP1,La Bibliothèque,0,01:00:00,parfois,1,trop intense,pas mal,Moyennement satisfait,Insatisfait,normal,Pas mal,semestre_Valide,0,0,1,1,1,0,1,1,1,0,1,1,1
+179,Homme,19,Externe,CP1,Chez moi,0,04:00:00,jamais,1,trop lent,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,2,1,0,0,0,1,0,0,0,1,0,0,0
+180,Homme,19,Externe,CP1,La Bibliothèque,0,05:30:00,jamais,0,trop intense,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,3,1,0,1,1,1,1,0,1,1,0,1,1
+181,Femme,18,Interne,CP1,Chez moi,0,12:00:00,jamais,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,1,1,0,0,1,1,1,0,0,1,0,0,0
+182,Femme,18,Interne,CP1,Chez moi,0,23:00:00,jamais,0,correct,faibles,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,2,0,1,1,0,1,1,0,1,0,0,1,0
+183,Femme,19,Interne,CP1,La Bibliothèque,1,00:00:00,parfois,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,0,0,1,1,0,1,0,1,1,0
+184,Homme,20,Interne,GI,Chez moi,1,00:00:00,parfois,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,1,1,1,1,1,1,0,1,1,1,1,1,0
+185,Homme,21,Externe,,Chez moi,1,22:00:00,parfois,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Valide,0,1,0,0,0,1,0,0,1,1,1,1,1
+186,Homme,18,Externe,CP1,Chez moi,1,01:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,5,0,0,0,1,1,1,0,0,1,0,0,1
+187,Femme,20,Externe,GC,Cafè,1,00:30:00,parfois,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,1,1,0,0,1,1,0,0,1
+188,Homme,18,Externe,GEE,La Bibliothèque,1,00:00:00,parfois,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,4,1,1,1,1,1,0,0,0,0,1,0,0
+189,Homme,18,Interne,GEE,La Bibliothèque,0,04:00:00,jamais,1,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Valide,0,1,1,1,1,1,0,1,0,0,0,1,0
+190,Homme,21,Interne,GEE,Chez moi,0,01:00:00,jamais,1,correct,élevées,Satisfait,Satisfait,normal,Pas mal,semestre_Rattrapage,1,0,1,1,1,1,0,0,0,0,1,0,1
+191,Homme,22,Interne,GEER,Chez moi,0,03:30:00,quelquefois,0,correct,pas mal,Moyennement satisfait,Insatisfait,normal,Normal,semestre_Valide,0,0,1,0,1,1,0,0,0,0,0,0,0
+192,Homme,20,Externe,GEER,Chez moi,0,04:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,4,0,0,0,1,1,1,1,1,1,1,0,0
+193,Homme,23,Interne,GEER,Chez moi,1,00:00:00,parfois,1,correct,pas mal,Satisfait,Satisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,1,1,0,1,1,0,0,1,1,0,0
+194,Homme,20,Interne,GEER,Chez moi,0,02:15:00,toujours,0,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,3,0,0,0,0,1,1,0,1,0,1,1,0
+195,Femme,23,Interne,GI,La Bibliothèque,1,00:00:00,jamais,0,trop intense,faibles,Insatisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,1,1,0,0,0,1,1,0,1,0,0,0,0
+196,Femme,18,Interne,CP1,Chez moi,0,03:30:00,parfois,1,trop lent,pas mal,Insatisfait,Insatisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,1,1,1,1,0,1,0,0,1,0
+197,Homme,22,Interne,CP2,Chez moi,0,04:42:00,parfois,0,trop intense,pas mal,Insatisfait,Insatisfait,pas mal,Pas mal,semestre_Rattrapage,3,1,0,1,0,1,1,1,0,0,1,1,1
+198,Homme,22,Interne,CP2,Chez moi,0,04:42:00,parfois,0,trop intense,pas mal,Insatisfait,Insatisfait,pas mal,Pas mal,semestre_Rattrapage,3,1,0,1,0,1,1,1,0,0,1,1,1
+199,Femme,23,Externe,GEER,La Bibliothèque,1,00:00:00,jamais,0,correct,très élevées,Satisfait,Satisfait,normal,Normal,semestre_Valide,0,0,0,0,0,0,1,0,1,1,1,1,1
+200,Femme,20,Interne,GI,Chez moi,1,02:30:00,jamais,0,trop intense,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Valide,0,0,0,0,0,1,1,0,0,1,0,1,0
+201,Femme,20,Interne,GI,Chez moi,1,02:30:00,jamais,0,trop intense,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Valide,0,0,0,0,0,1,1,0,0,1,0,1,0
+202,Homme,18,Interne,CP1,Chez moi,1,02:30:00,jamais,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,1,0,1,1,1,1,0,1,1,1,1,0
+203,Homme,22,Interne,GEER,Cafè,0,01:00:00,toujours,0,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,0,1,1,1,0,1,1,1,1,0
+204,Homme,22,Interne,GEER,Cafè,0,01:00:00,toujours,0,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,0,1,1,1,0,1,1,1,1,0
+205,Homme,18,Interne,CP1,Cafè,0,23:00:00,jamais,0,trop intense,élevées,Insatisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,1,1,0,1,1,1,1,0,1,0,1,1,0
+206,Homme,19,Interne,CP1,Chez moi,1,22:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,1,0,0,1,0,1,0,0,0,0,0,0
+207,Femme,19,Externe,CP2,Cafè,0,02:00:00,jamais,0,trop intense,faibles,Moyennement satisfait,Insatisfait,normal,Stresse,semestre_Rattrapage,3,1,0,1,0,1,1,0,1,1,1,1,0
+208,Homme,19,Externe,CP1,Chez moi,0,03:00:00,parfois,0,correct,pas mal,Satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,4,0,0,1,0,1,1,1,1,1,0,1,1
+209,Femme,20,Interne,CP2,La Bibliothèque,1,00:00:00,quelquefois,1,trop lent,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,1,0,0,1,1,1,0,1,1,1,0,0
+210,Homme,20,Externe,CP2,Cafè,1,01:00:00,quelquefois,1,trop intense,faibles,Satisfait,Insatisfait,pas mal,Pas mal,semestre_Rattrapage,2,1,1,0,1,1,1,0,1,0,0,1,0
+211,Homme,20,Externe,CP2,La Bibliothèque,1,02:00:00,quelquefois,1,trop intense,pas mal,Moyennement satisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,2,1,0,1,1,1,1,0,1,1,1,1,1
+212,Femme,20,Externe,CP1,Cafè,0,02:00:00,jamais,1,trop intense,faibles,Moyennement satisfait,Moyennement satisfait,normal,Stresse,semestre_Rattrapage,1,0,1,0,1,1,0,0,0,0,1,0,0
+213,Femme,19,Externe,CP2,Cafè,1,02:30:00,quelquefois,1,correct,pas mal,Satisfait,Moyennement satisfait,normal,Pas mal,semestre_Valide,0,1,0,0,1,1,1,0,1,1,0,0,0
+214,Homme,21,Interne,GEER,La Bibliothèque,0,21:00:00,quelquefois,1,correct,élevées,Satisfait,Satisfait,normal,Normal,semestre_Valide,2,0,0,0,1,1,1,0,1,1,1,0,1
+215,Femme,20,Externe,CP2,La Bibliothèque,0,03:00:00,jamais,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,0,0,1,1,1,1,0,1,1,0,1,0
+216,Homme,23,Externe,GEE,Chez moi,0,06:00:00,jamais,0,trop intense,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,3,0,0,1,1,1,1,1,0,1,1,1,0
+217,Homme,18,Interne,CP1,Chez moi,0,00:00:00,parfois,0,correct,pas mal,Satisfait,Insatisfait,pas mal,Pas mal,semestre_Valide,0,1,0,0,0,1,1,0,0,0,1,1,0
+218,Femme,19,Interne,CP1,Chez moi,1,01:00:00,rarement,0,correct,élevées,Satisfait,Satisfait,Stressé,Stresse,semestre_Rattrapage,1,1,0,0,1,1,1,0,1,0,0,1,0
+219,Homme,19,Interne,CP1,Chez moi,1,01:00:00,jamais,0,correct,faibles,Satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,2,0,0,0,0,1,1,0,1,0,1,0,1
+220,Femme,20,Interne,CP1,La Bibliothèque,0,00:30:00,jamais,0,correct,élevées,Satisfait,Satisfait,normal,Pas mal,semestre_Rattrapage,2,1,0,0,0,0,0,0,0,0,0,0,0
+221,Femme,20,Externe,CP1,Cafè,0,23:00:00,jamais,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,3,1,0,1,1,1,1,0,1,1,1,1,0
+222,Homme,21,Interne,GI,Chez moi,0,04:00:00,jamais,0,correct,pas mal,Satisfait,Insatisfait,normal,Stresse,semestre_Rattrapage,3,1,0,1,0,1,1,1,1,1,0,1,0
+223,Femme,18,Externe,CP2,La Bibliothèque,1,01:30:00,jamais,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,1,0,0,0,1,1,0,0,1,0,0,0
+224,Homme,18,Interne,CP1,Cafè,1,01:00:00,quelquefois,1,correct,pas mal,Satisfait,Insatisfait,normal,Stresse,semestre_Rattrapage,2,0,0,1,0,1,1,0,1,0,0,0,0
+225,Femme,21,Externe,CP2,Cafè,0,02:30:00,jamais,0,correct,élevées,Moyennement satisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,2,0,0,1,0,1,0,0,1,1,0,0,0
+226,Femme,19,Externe,CP1,Cafè,1,03:00:00,jamais,0,trop lent,faibles,Moyennement satisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,3,0,0,0,0,1,1,1,1,1,0,1,0
+227,Homme,20,Externe,CP1,Cafè,1,02:30:00,jamais,1,correct,pas mal,Satisfait,Insatisfait,pas mal,Normal,semestre_Valide,0,0,0,0,1,1,0,0,1,1,1,0,0
+228,Femme,22,Interne,GEE,Cafè,1,02:00:00,quelquefois,0,trop lent,pas mal,Satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,2,1,0,1,1,1,0,0,1,0,0,0,0
+229,Homme,22,Interne,GC,Chez moi,0,02:00:00,jamais,1,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,1,0,1,1,1,0,0,0,1,0,0,0
+230,Homme,18,Externe,CP1,Chez moi,0,00:00:00,parfois,1,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,0,0,0,0,0,0,1,0,1,1,0,1,1
+231,Homme,22,Externe,GEE,Chez moi,1,03:00:00,parfois,1,correct,élevées,Satisfait,Satisfait,pas mal,Stresse,semestre_Rattrapage,3,0,0,1,1,1,0,0,1,1,0,0,0
+232,Homme,20,Interne,CP2,Cafè,0,01:30:00,quelquefois,1,trop intense,faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,semestre_Rattrapage,1,1,0,1,1,1,1,0,0,1,0,0,0
+233,Femme,18,Interne,CP1,La Bibliothèque,0,02:00:00,parfois,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Valide,0,1,0,0,0,1,1,0,0,1,0,0,0
+234,Homme,21,Externe,GC,La Bibliothèque,0,01:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,1,1,0,1,1,1,0,0,1,0,0,0,1
+235,Femme,18,Interne,CP1,La Bibliothèque,0,02:00:00,jamais,1,trop intense,faibles,Moyennement satisfait,Insatisfait,pas mal,Stresse,semestre_Valide,0,0,0,1,0,1,1,0,1,1,0,1,0
+236,Homme,19,Externe,CP2,Cafè,0,01:50:00,quelquefois,1,correct,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,1,0,1,0,1,0,0,0,1,1,1,1
+237,Femme,19,Externe,CP2,Chez moi,0,01:30:00,jamais,1,correct,pas mal,Insatisfait,Insatisfait,normal,Stresse,semestre_Rattrapage,3,0,0,0,0,1,0,0,1,1,0,1,0
+238,Homme,22,Interne,GEER,Cafè,1,02:00:00,rarement,0,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,2,1,0,1,1,1,0,0,0,1,0,1,0
+239,Homme,17,Interne,CP1,Chez moi,0,23:50:00,rarement,0,trop intense,très faibles,Moyennement satisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,1,0,0,0,0,1,1,0,0,0,1,1,0
+240,Femme,18,Interne,CP1,La Bibliothèque,0,00:50:00,quelquefois,1,correct,élevées,Satisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,1,1,0,0,0,0,1,0,1,1,0,1,0
+241,Homme,21,Externe,GEE,Cafè,0,01:00:00,rarement,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,2,0,1,1,1,1,0,0,0,1,1,0,0
+242,Femme,21,Interne,GC,La Bibliothèque,0,01:30:00,quelquefois,1,correct,élevées,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,1,0,1,1,1,0,0,0,1,0,1,0
+243,Femme,20,Interne,CP2,Chez moi,0,02:00:00,jamais,1,trop intense,pas mal,Insatisfait,Insatisfait,normal,Pas mal,semestre_Valide,0,1,0,0,0,1,1,0,0,0,0,1,0
+244,Femme,18,Interne,CP1,La Bibliothèque,0,02:30:00,jamais,0,trop intense,très faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,semestre_Rattrapage,2,1,0,0,0,1,1,0,0,1,0,1,0
+245,Homme,20,Interne,CP2,Cafè,1,01:30:00,quelquefois,1,trop intense,élevées,Moyennement satisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,1,0,0,0,0,1,1,0,0,0,1,1,1
+246,Homme,18,Interne,CP1,Cafè,1,03:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,1,0,1,0,1,0,0,1,0,0,1,0
+247,Homme,18,Interne,CP1,Cafè,1,03:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,1,0,1,0,1,0,0,1,0,0,1,0
+248,Femme,20,Externe,CP2,Chez moi,0,02:00:00,jamais,1,correct,faibles,Satisfait,Moyennement satisfait,normal,Pas mal,semestre_Valide,0,0,0,0,0,1,0,0,1,1,0,0,0
+249,Femme,21,Interne,GEER,Cafè,0,02:00:00,jamais,0,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,1,1,0,0,1,0,1,0,0,1,0,0,0
+250,Femme,18,Externe,CP1,La Bibliothèque,1,01:20:00,rarement,1,correct,faibles,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,0,0,1,0,1,1,0,0,0
+251,Homme,20,Interne,CP2,Chez moi,0,01:00:00,quelquefois,1,correct,pas mal,Moyennement satisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,4,0,0,1,0,1,1,0,1,1,0,1,0
+252,Femme,22,Interne,GC,La Bibliothèque,0,01:00:00,jamais,1,trop intense,élevées,Satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,1,1,0,1,1,1,0,0,0,0,0,1,0
+253,Femme,18,Externe,CP1,Cafè,1,02:00:00,jamais,1,correct,très faibles,Moyennement satisfait,Moyennement satisfait,normal,Pas mal,semestre_Rattrapage,1,0,0,1,0,1,1,0,0,0,1,1,0
+254,Homme,19,Interne,CP1,Chez moi,1,02:00:00,rarement,1,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,1,0,0,1,0,1,0,1,1,0
+255,Homme,21,Interne,GC,La Bibliothèque,0,01:30:00,rarement,1,trop intense,pas mal,Moyennement satisfait,Insatisfait,normal,Stresse,semestre_Rattrapage,2,1,0,0,1,1,1,0,1,1,0,1,1
+256,Homme,20,Interne,GEE,La Bibliothèque,1,01:00:00,parfois,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,1,1,0,1,1,0,0,0,1,0,1,0,0
+257,Femme,19,Interne,CP2,Cafè,1,02:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,2,0,0,0,0,1,1,0,1,0,1,1,0
+258,Homme,20,Interne,CP2,La Bibliothèque,0,00:30:00,quelquefois,1,trop lent,pas mal,Satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,1,1,1,1,0,1,1,0,1,1
+259,Homme,21,Interne,CP2,Chez moi,1,02:00:00,quelquefois,1,trop intense,pas mal,Insatisfait,Insatisfait,normal,Normal,semestre_Valide,1,0,0,0,0,1,0,0,0,1,0,1,0
+260,Homme,18,Interne,CP1,Chez moi,0,23:45:00,rarement,1,correct,pas mal,Insatisfait,Insatisfait,normal,Normal,semestre_Rattrapage,3,0,0,1,1,1,1,0,1,0,1,0,0
+261,Homme,19,Interne,CP2,La Bibliothèque,0,02:00:00,rarement,1,trop intense,pas mal,Moyennement satisfait,Insatisfait,normal,Stresse,semestre_Valide,0,0,0,0,1,1,1,1,1,0,0,1,0
+262,Homme,19,Externe,CP2,Chez moi,0,01:00:00,parfois,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,2,0,0,0,0,1,0,0,0,1,0,1,0
+263,Homme,21,Interne,GI,Cafè,1,01:00:00,quelquefois,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,normal,Normal,semestre_Valide,0,1,1,0,1,1,1,1,1,1,0,1,0
+264,Homme,21,Interne,CP2,Cafè,0,13:00:00,jamais,0,correct,pas mal,Insatisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,3,0,0,0,0,1,0,0,1,1,0,0,0
+265,Homme,19,Interne,CP2,La Bibliothèque,0,11:00:00,parfois,1,trop intense,pas mal,Satisfait,Moyennement satisfait,pas mal,Normal,semestre_Rattrapage,2,0,0,0,0,1,1,0,1,1,0,1,1
+266,Homme,20,Interne,CP2,Chez moi,1,02:30:00,jamais,1,correct,faibles,Insatisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,2,1,0,1,1,1,1,0,0,0,0,1,0
+267,Homme,21,Interne,GC,Chez moi,0,01:30:00,quelquefois,1,trop lent,faibles,Insatisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,2,0,0,0,1,1,1,0,0,1,0,1,0
+268,Femme,18,Externe,CP1,La Bibliothèque,0,23:00:00,quelquefois,0,correct,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,1,1,1,1,0,0,0,0,0,0,0,0
+269,Homme,22,Interne,GC,Chez moi,0,02:00:00,parfois,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,1,1,0,1,1,1,1,0,1,1,1,1,0
+270,Femme,20,Interne,CP1,Chez moi,0,03:00:00,jamais,0,correct,élevées,Satisfait,Satisfait,normal,Stresse,semestre_Rattrapage,2,0,0,0,0,1,0,0,0,1,0,0,0
+271,Femme,18,Interne,CP1,Chez moi,0,01:00:00,quelquefois,0,trop lent,pas mal,Insatisfait,Insatisfait,pas mal,Normal,semestre_Rattrapage,1,0,0,0,1,1,1,0,0,1,0,1,0
+272,Femme,18,Interne,CP1,Cafè,1,01:00:00,parfois,1,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,0,0,1,0,0,1,1,0,1,1
+273,Homme,19,Interne,CP1,Chez moi,0,00:00:00,rarement,0,trop lent,pas mal,Satisfait,Insatisfait,normal,Pas mal,semestre_Rattrapage,1,0,0,0,0,1,1,0,1,1,0,1,0
+274,Femme,18,Interne,CP1,Chez moi,0,00:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Satisfait,Stressé,Pas mal,semestre_Valide,0,0,0,0,0,1,0,0,0,1,1,0,0
+275,Homme,23,Externe,GC,Chez moi,1,01:30:00,rarement,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,normal,Normal,semestre_Rattrapage,1,0,0,0,1,0,0,0,0,0,0,0,0
+276,Homme,18,Externe,CP1,Chez moi,1,00:00:00,rarement,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,semestre_Rattrapage,3,0,0,0,0,1,1,0,1,0,0,1,0
+277,Homme,20,Interne,CP1,La Bibliothèque,0,00:00:00,rarement,1,correct,pas mal,Satisfait,Insatisfait,pas mal,Normal,semestre_Valide,0,0,0,0,1,0,0,0,0,0,1,1,0
+278,Homme,21,Interne,GC,La Bibliothèque,0,12:00:00,quelquefois,0,correct,faibles,Insatisfait,Moyennement satisfait,normal,Stresse,semestre_Valide,0,0,0,1,1,0,1,0,0,0,0,0,0
+279,Homme,21,Externe,GC,La Bibliothèque,1,00:00:00,rarement,1,trop intense,faibles,Insatisfait,Insatisfait,pas mal,Stresse,semestre_Rattrapage,1,0,0,0,1,1,0,0,1,1,0,1,0
+280,Homme,19,Externe,CP1,Cafè,0,04:00:00,jamais,0,correct,faibles,Insatisfait,Insatisfait,pas mal,Normal,semestre_Rattrapage,1,1,0,0,1,1,1,0,1,1,0,0,1
+281,Homme,18,Interne,CP1,Cafè,0,03:00:00,parfois,0,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,semestre_Rattrapage,3,0,0,0,0,1,1,1,1,0,1,1,1
+282,Homme,22,Externe,GC,Cafè,0,03:00:00,quelquefois,0,trop intense,faibles,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,2,0,0,0,0,1,0,0,0,1,0,1,0
+283,Homme,18,Interne,CP1,Chez moi,0,12:00:00,rarement,0,correct,pas mal,Satisfait,Satisfait,pas mal,Pas mal,semestre_Rattrapage,2,0,0,0,0,1,0,0,1,0,1,0,0
+284,Homme,18,Interne,CP1,Cafè,1,00:00:00,quelquefois,0,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,1,1,1,0,1,1,1,0,1,1
+285,Homme,21,Interne,GC,Chez moi,0,01:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Valide,0,0,0,0,0,1,1,0,0,1,0,0,0
+286,Femme,21,Interne,GC,Cafè,0,01:00:00,rarement,0,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,1,1,1,0,1,1,0,1,0
+287,Homme,19,Externe,CP1,Chez moi,0,01:00:00,rarement,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,0,0,0,1,0,1,0,0,0,1
+288,Femme,18,Interne,CP1,La Bibliothèque,0,01:45:00,rarement,0,trop lent,faibles,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,0,0,1,1,1,0,0,1,1,1,1,0
+289,Homme,19,Interne,CP2,Cafè,0,01:30:00,parfois,0,trop lent,pas mal,Moyennement satisfait,Satisfait,Stressé,Pas mal,semestre_Rattrapage,2,0,0,0,0,1,1,0,0,1,0,0,0
+290,Homme,22,Interne,GI,Chez moi,0,01:00:00,quelquefois,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,1,1,1,0,0,0,0,1,0
+291,Femme,19,Externe,CP1,Chez moi,1,03:30:00,jamais,0,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,0,1,1,1,1,1,0,1,1,0,1,0
+292,Homme,19,Interne,CP2,Cafè,0,03:00:00,parfois,1,trop lent,faibles,Insatisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,0,1,1,1,1,0,0,0,1,0,1,0
+293,Homme,24,Interne,GC,Chez moi,1,00:00:00,rarement,0,correct,pas mal,Satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,0,0,0,1,0,0,0,0,0,0,0,0
+294,Femme,21,Interne,GC,Chez moi,0,01:00:00,jamais,0,correct,faibles,Insatisfait,Insatisfait,Stressé,Normal,semestre_Rattrapage,1,0,0,0,0,1,0,0,0,1,0,1,0
+295,Homme,18,Interne,CP1,Chez moi,0,12:00:00,parfois,0,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Normal,semestre_Rattrapage,1,0,0,1,0,0,0,0,1,1,1,0,0
+296,Homme,18,Interne,CP1,Chez moi,0,00:00:00,parfois,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,1,1,1,1,0,1,0,0,0,1
+297,Homme,21,Interne,GC,Chez moi,1,00:00:00,jamais,0,trop lent,faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,semestre_Valide,0,0,1,1,1,1,1,0,0,0,1,1,0
+298,Homme,18,Externe,CP1,Cafè,1,01:00:00,rarement,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,4,0,0,0,0,1,0,0,1,1,0,0,0
+299,Femme,21,Interne,GC,Chez moi,1,00:00:00,rarement,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,1,1,1,0,1,1,0,1,0
+300,Homme,19,Externe,CP1,Chez moi,0,03:00:00,parfois,0,correct,pas mal,Satisfait,Insatisfait,pas mal,Pas mal,semestre_Rattrapage,4,0,1,1,1,1,1,1,1,1,1,0,0
+301,Homme,19,Interne,CP1,La Bibliothèque,1,01:00:00,quelquefois,1,correct,pas mal,Insatisfait,Insatisfait,pas mal,Normal,semestre_Valide,0,0,0,0,0,1,1,0,1,0,1,1,0
+302,Femme,22,Interne,GC,La Bibliothèque,1,01:00:00,jamais,0,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,0,1,0,0,1,1,0,0,1,0,0,1,0
+303,Homme,21,Externe,GEE,Chez moi,0,00:00:00,jamais,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,0,0,0,1,1,0,0,0,1,0,1,0
+304,Homme,18,Externe,CP1,Cafè,0,01:00:00,rarement,0,correct,faibles,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,1,1,1,1,0,1,1,0,0,1,0,0,0
+305,Femme,21,Interne,GC,Chez moi,1,00:00:00,jamais,1,trop intense,pas mal,Insatisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,1,0,0,0,0,1,1,0,0,1,0,1,0
+306,Homme,20,Interne,CP2,Chez moi,0,03:00:00,quelquefois,0,trop intense,pas mal,Insatisfait,Insatisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,1,1,1,1,0,1,0,0,1,0
+307,Femme,22,Interne,GC,Chez moi,0,00:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,0,0,1,0,0,0,0,1,0,0
+308,Femme,19,Externe,CP2,Chez moi,0,00:00:00,jamais,0,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,2,1,1,0,1,1,1,0,1,1,0,1,1
+309,Femme,19,Interne,CP2,La Bibliothèque,1,00:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,3,0,0,1,0,1,1,0,1,1,1,0,1
+310,Femme,19,Externe,CP2,Chez moi,1,04:30:00,jamais,1,trop intense,pas mal,Satisfait,Satisfait,Stressé,Pas mal,semestre_Valide,0,0,0,1,1,1,0,0,0,0,0,0,0
+311,Femme,19,Interne,CP2,La Bibliothèque,1,00:00:00,jamais,0,correct,élevées,Satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,0,0,0,0,0,0,0,0,1,0,0,0
+312,Femme,20,Interne,CP2,Chez moi,1,01:00:00,rarement,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Valide,0,0,0,0,1,1,0,0,1,1,0,1,0
+313,Femme,19,Interne,CP2,Chez moi,1,01:00:00,rarement,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,1,1,1,1,0,1,0,1,0,0,0,0
+314,Homme,20,Interne,CP2,Chez moi,1,01:30:00,rarement,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,1,1,1,1,1,1,1,1,1,0
+315,Femme,20,Interne,CP2,Cafè,0,02:00:00,quelquefois,1,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Valide,3,0,1,1,1,0,1,0,0,0,0,0,1
+316,Homme,19,Interne,CP2,Chez moi,1,01:00:00,quelquefois,1,trop lent,faibles,Moyennement satisfait,Insatisfait,pas mal,Normal,semestre_Rattrapage,3,0,0,0,1,1,1,0,1,1,0,1,0
+317,Homme,22,Interne,GC,Cafè,1,02:00:00,quelquefois,1,correct,faibles,Insatisfait,Moyennement satisfait,normal,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,1,0,0,1,0,1,0
+318,Homme,19,Interne,CP2,La Bibliothèque,0,10:20:00,quelquefois,0,trop lent,élevées,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,1,0,1,0,0,0,0,0,0,0,0,0
+319,Homme,19,Externe,CP2,La Bibliothèque,0,01:00:00,quelquefois,0,trop intense,faibles,Insatisfait,Moyennement satisfait,Stressé,Normal,semestre_Rattrapage,3,0,0,1,0,0,1,0,1,1,0,1,1
+320,Femme,20,Interne,CP2,Chez moi,0,01:00:00,rarement,1,correct,élevées,Satisfait,Moyennement satisfait,normal,Stresse,semestre_Valide,0,0,0,0,1,1,1,0,0,0,0,1,0
+321,Femme,18,Interne,CP1,La Bibliothèque,0,23:00:00,jamais,0,trop intense,élevées,Insatisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,5,1,0,0,0,1,0,0,0,0,0,1,0
+322,Homme,19,Externe,CP2,Cafè,0,04:00:00,parfois,1,trop lent,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,5,0,0,1,1,1,0,0,1,0,1,1,0
+323,Femme,18,Interne,CP1,Chez moi,0,01:00:00,jamais,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,semestre_Rattrapage,1,0,0,0,0,1,1,0,0,0,0,0,0
+324,Femme,18,Interne,CP1,La Bibliothèque,1,00:00:00,rarement,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,0,0,1,1,0,1,1
+325,Homme,19,Externe,CP2,Cafè,1,03:00:00,quelquefois,1,correct,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,1,1,1,1,1,1,1,0,0,0,1,0
+326,Femme,20,Externe,CP2,La Bibliothèque,1,00:45:00,parfois,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,3,0,0,0,0,0,0,0,1,0,0,0,1
+327,Femme,19,Interne,CP2,Chez moi,0,23:00:00,quelquefois,1,correct,pas mal,Satisfait,Moyennement satisfait,normal,Stresse,semestre_Valide,0,0,0,0,1,1,0,0,0,1,0,1,1
+328,Femme,18,Interne,CP2,La Bibliothèque,1,00:00:00,rarement,1,correct,pas mal,Satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,1,0,1,1,0,1,1,1,1,0,1
+329,Homme,19,Externe,CP1,Chez moi,0,01:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,semestre_Rattrapage,3,0,0,1,0,1,0,0,1,1,0,0,0
+330,Femme,18,Externe,CP1,Chez moi,0,12:00:00,rarement,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,4,1,1,0,1,1,0,0,0,0,0,1,0
+331,Femme,19,Externe,CP2,Chez moi,0,00:00:00,parfois,1,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,0,1,0,1,1,0,0,0,0,0,1,0
+332,Femme,19,Interne,CP1,La Bibliothèque,1,11:00:00,jamais,1,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,3,0,0,0,0,0,0,0,0,0,0,0,0
+333,Homme,22,Interne,GC,Chez moi,0,01:00:00,parfois,1,correct,faibles,Moyennement satisfait,Insatisfait,pas mal,Pas mal,semestre_Valide,0,0,0,1,1,1,1,0,1,1,1,1,0
+334,Homme,17,Externe,CP1,Cafè,1,02:00:00,quelquefois,0,trop intense,faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,1,1,1,1,1,0,0,0,1,1,1,0
+335,Femme,19,Interne,CP1,La Bibliothèque,1,01:00:00,parfois,0,correct,pas mal,Moyennement satisfait,Satisfait,normal,Pas mal,semestre_Rattrapage,1,0,0,0,1,0,1,0,0,0,0,0,1
+336,Homme,19,Externe,CP2,Cafè,0,02:00:00,rarement,0,correct,pas mal,Satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,0,0,1,1,1,0,0,1,1,0,0,1
+337,Femme,19,Externe,CP2,Chez moi,0,03:00:00,rarement,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,1,0,1,0,0,1,0,1,1,0
+338,Homme,18,Externe,CP1,Cafè,1,03:00:00,jamais,0,correct,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,0,0,1,0,0,0,1,0,0,0
+339,Femme,19,Externe,CP2,La Bibliothèque,0,02:00:00,rarement,1,correct,très élevées,Satisfait,Satisfait,normal,Normal,semestre_Rattrapage,3,0,0,0,0,1,1,0,0,0,0,1,0
+340,Femme,19,Interne,CP2,Chez moi,1,02:00:00,rarement,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,1,1,1,0,0,1,1,0,1,1
+341,Femme,19,Externe,CP2,Chez moi,0,00:00:00,parfois,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,semestre_Valide,0,0,1,1,1,1,0,0,1,0,0,0,0
+342,Homme,19,Interne,CP2,La Bibliothèque,0,02:00:00,quelquefois,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,2,0,0,0,1,1,0,0,1,1,0,1,1
+343,Homme,20,Interne,CP2,La Bibliothèque,1,00:00:00,quelquefois,1,correct,élevées,Satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,2,0,0,1,1,1,1,0,1,1,1,1,1
+344,Homme,21,Interne,CP2,Chez moi,0,02:00:00,quelquefois,1,trop intense,élevées,Satisfait,Satisfait,pas mal,Pas mal,semestre_Valide,0,1,1,1,1,1,1,1,1,1,1,1,1
+345,Femme,18,Externe,CP1,La Bibliothèque,0,03:45:00,rarement,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Normal,semestre_Rattrapage,2,0,0,0,1,0,1,0,0,1,0,1,0
+346,Femme,18,Interne,CP2,Chez moi,1,23:00:00,rarement,1,trop intense,pas mal,Satisfait,Moyennement satisfait,normal,Pas mal,semestre_Valide,0,0,0,0,1,0,1,0,1,0,1,0,0
+347,Femme,19,Externe,CP2,Chez moi,1,00:00:00,jamais,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,1,0,1,1,1,1,0,0,0,1,0,0,1
+348,Femme,18,Externe,CP2,Chez moi,0,00:00:00,jamais,0,correct,pas mal,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,1,0,0,1,1,1,1,0,0,1,0,1,0
+349,Homme,19,Externe,CP2,Cafè,1,03:00:00,rarement,1,trop lent,pas mal,Moyennement satisfait,Satisfait,normal,Pas mal,semestre_Rattrapage,1,0,1,0,0,1,1,0,0,1,0,1,1
+350,Femme,20,Externe,CP2,Chez moi,0,00:00:00,jamais,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,1,0,1,0,0,0,1,0,1,0
+351,Femme,19,Interne,CP2,Chez moi,0,02:00:00,rarement,0,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,0,0,1,1,1,1,0,0,0,0,0,0
+352,Homme,20,Interne,CP2,Chez moi,1,23:00:00,quelquefois,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Stresse,semestre_Rattrapage,1,0,0,0,1,1,0,0,1,1,0,0,1
+353,Homme,19,Externe,CP2,Chez moi,0,10:00:00,jamais,0,trop lent,élevées,Moyennement satisfait,Insatisfait,pas mal,Normal,semestre_Valide,0,0,0,1,0,1,0,0,1,1,0,0,0
+354,Homme,20,Externe,CP1,Chez moi,1,03:00:00,quelquefois,0,correct,faibles,Insatisfait,Insatisfait,normal,Normal,semestre_Rattrapage,1,0,1,1,1,0,1,0,1,1,0,0,0
+355,Femme,20,Externe,CP2,Chez moi,1,02:00:00,jamais,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,1,0,1,0,1,0,0,1,1,0,0
+356,Homme,19,Externe,CP2,Chez moi,0,00:00:00,jamais,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Valide,0,0,0,0,0,1,0,0,1,1,1,1,1
+357,Femme,19,Externe,CP2,Chez moi,0,01:30:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,0,0,1,0,0,0,0,0,1,0
+358,Homme,23,Interne,CP2,Cafè,0,03:00:00,rarement,0,trop lent,pas mal,Insatisfait,Insatisfait,Stressé,Normal,semestre_Rattrapage,3,0,0,0,0,1,1,0,1,0,1,0,0
+359,Femme,19,Externe,CP2,Chez moi,0,00:00:00,rarement,0,correct,élevées,Satisfait,Satisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,1,1,1,0,0,0,1,0,0,0
+360,Femme,19,Interne,CP1,La Bibliothèque,0,02:00:00,rarement,1,trop intense,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,1,1,0,1,0,1,0,1,0,1
+361,Femme,19,Interne,CP1,Chez moi,0,02:00:00,quelquefois,1,correct,faibles,Insatisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,1,0,1,1,0,1,1,0,1,0
+362,Femme,19,Externe,CP2,Chez moi,0,03:00:00,parfois,0,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,1,0,1,1,0,1,0,0,0,1,0,0,0
+363,Homme,22,Externe,CP2,Chez moi,0,02:00:00,jamais,1,trop lent,pas mal,Insatisfait,Insatisfait,pas mal,Pas mal,semestre_Valide,0,0,1,1,1,1,0,0,0,1,0,0,0
+364,Femme,19,Externe,CP2,Chez moi,0,01:00:00,rarement,0,correct,élevées,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,1,0,0,0,1,0,0,0,0,0,0,0
+365,Femme,19,Externe,CP2,Chez moi,0,00:30:00,jamais,0,correct,pas mal,Moyennement satisfait,Insatisfait,pas mal,Pas mal,semestre_Rattrapage,3,0,0,0,0,1,0,0,0,1,0,0,1
+366,Homme,20,Externe,CP2,Chez moi,0,03:00:00,quelquefois,0,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,0,1,1,0,0,0,0,0,0
+367,Homme,20,Externe,CP2,Chez moi,0,03:00:00,quelquefois,0,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,0,1,1,0,0,0,0,0,0
+368,Femme,19,Interne,CP2,La Bibliothèque,0,23:00:00,rarement,1,trop lent,élevées,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,1,0,1,1,1,0,0,1,0,1,0,0
+369,Homme,21,Externe,CP2,Chez moi,0,02:00:00,jamais,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,2,0,1,0,0,1,1,0,1,1,0,0,0
+370,Femme,20,Externe,CP2,Chez moi,0,01:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Rattrapage,3,0,1,0,0,1,0,0,0,1,0,0,0
+371,Femme,19,Interne,CP2,Chez moi,1,00:00:00,rarement,1,trop lent,faibles,Moyennement satisfait,Insatisfait,Stressé,Normal,semestre_Valide,0,0,0,1,1,1,1,1,1,0,1,0,1
+372,Homme,21,Externe,CP2,Chez moi,0,00:00:00,rarement,1,trop intense,pas mal,Satisfait,Moyennement satisfait,pas mal,Normal,semestre_Valide,0,0,0,0,0,0,0,0,0,1,0,1,0
+373,Homme,19,Externe,CP2,Chez moi,0,06:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Valide,0,1,0,1,1,1,1,1,0,0,0,1,0
+374,Femme,20,Externe,CP2,Chez moi,0,01:00:00,quelquefois,0,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,5,0,1,1,0,1,0,0,1,1,0,0,0
+375,Femme,20,Externe,CP2,Chez moi,0,08:00:00,rarement,1,trop lent,pas mal,Insatisfait,Moyennement satisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,0,1,1,1,0,0,1,0,0,0
+376,Femme,21,Externe,GC,Chez moi,0,01:00:00,rarement,1,trop intense,élevées,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,0,0,0,0,1,0,0,1,1,0,1,0
+377,Femme,19,Interne,CP2,La Bibliothèque,0,00:30:00,jamais,1,correct,pas mal,Moyennement satisfait,Insatisfait,pas mal,Normal,semestre_Valide,0,0,0,0,1,1,0,0,1,0,0,0,0
+378,Femme,19,Interne,CP2,Cafè,0,12:00:00,quelquefois,0,trop intense,pas mal,Satisfait,Insatisfait,pas mal,Pas mal,semestre_Valide,0,0,0,0,0,1,1,0,0,1,1,1,0
+379,Femme,19,Interne,GEER,Chez moi,0,09:00:00,jamais,0,trop lent,très faibles,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,1,1,0,1,1,1,1,1,0,1,1,0
+380,Femme,19,Interne,CP2,La Bibliothèque,0,12:00:00,rarement,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Normal,semestre_Rattrapage,1,0,0,1,0,1,1,0,1,1,1,0,0
+381,Homme,18,Externe,CP1,Chez moi,0,03:00:00,parfois,0,correct,faibles,Insatisfait,Moyennement satisfait,normal,Normal,semestre_Valide,0,0,0,1,0,1,0,0,1,1,0,1,0
+382,Homme,21,Interne,CP2,Chez moi,1,02:30:00,parfois,0,trop intense,très élevées,Insatisfait,Insatisfait,Stressé,Pas mal,semestre_Rattrapage,3,0,0,1,1,0,1,1,0,1,1,0,1
+383,Homme,19,Interne,CP2,Cafè,0,04:00:00,rarement,1,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Valide,0,0,0,0,0,1,0,0,0,1,0,0,0
+384,Homme,19,Externe,CP2,Chez moi,0,23:00:00,quelquefois,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,0,0,0,0,0,0,0,0,0,0
+385,Femme,19,Interne,CP2,Chez moi,0,00:30:00,rarement,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,1,0,1,1,1,0,1,0,1,0,0,0,0
+386,Homme,19,Externe,CP1,Chez moi,0,01:00:00,rarement,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,2,0,0,0,0,1,1,0,1,0,0,0,1
+387,Femme,20,Interne,CP2,Chez moi,1,02:00:00,rarement,1,correct,élevées,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,1,1,1,0,0,1,0,0,0,0
+388,Homme,20,Externe,CP2,Cafè,1,01:00:00,quelquefois,1,trop lent,faibles,Insatisfait,Insatisfait,normal,Normal,semestre_Rattrapage,1,0,0,0,0,1,0,0,0,0,0,0,0
+389,Femme,19,Interne,CP2,Chez moi,0,01:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,1,1,1,0,0,1,1,0,1,0
+390,Femme,19,Externe,CP2,Chez moi,1,23:00:00,rarement,1,trop lent,pas mal,Moyennement satisfait,Insatisfait,Stressé,Pas mal,semestre_Valide,0,0,0,0,1,1,0,0,1,0,0,0,0
+391,Homme,19,Externe,CP2,Chez moi,0,02:00:00,quelquefois,0,trop intense,pas mal,Insatisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,4,0,0,0,1,1,0,0,0,1,0,0,0
+392,Homme,20,Interne,CP2,Chez moi,0,01:00:00,rarement,0,correct,élevées,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,0,0,1,1,0,1,1,0,1,0
+393,Homme,20,Interne,CP2,Cafè,0,02:00:00,parfois,0,correct,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,1,0,0,0,1,1,1,0,1,1,0,1,0
+394,Femme,20,Interne,CP2,Chez moi,0,23:30:00,parfois,0,trop lent,élevées,Satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Valide,0,0,0,1,0,1,0,0,0,1,0,1,1
+395,Femme,18,Interne,CP1,Cafè,1,00:30:00,rarement,0,trop intense,pas mal,Moyennement satisfait,Insatisfait,Stressé,Stresse,semestre_Rattrapage,2,0,1,0,0,1,0,0,0,1,1,0,0
+396,Homme,19,Interne,CP2,Chez moi,1,00:00:00,jamais,0,correct,pas mal,Moyennement satisfait,Moyennement satisfait,normal,Normal,semestre_Rattrapage,1,0,0,0,0,1,0,0,0,1,0,0,1
+397,Homme,20,Externe,CP1,Cafè,1,03:00:00,rarement,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Valide,0,0,0,0,0,1,0,0,0,1,0,0,0
+398,Femme,18,Interne,CP1,La Bibliothèque,1,00:00:00,rarement,1,trop intense,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Pas mal,semestre_Rattrapage,1,0,0,0,1,1,0,0,1,1,0,1,1
+399,Femme,20,Interne,CP2,Chez moi,0,02:00:00,jamais,0,trop lent,pas mal,Moyennement satisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,1,1,0,0,1,1,1,0,0,0,0,0,0
+400,Homme,18,Interne,CP1,Chez moi,1,04:00:00,quelquefois,1,correct,faibles,Insatisfait,Moyennement satisfait,Stressé,Stresse,semestre_Rattrapage,4,1,1,0,1,0,1,1,1,0,0,1,0
+401,Femme,19,Interne,CP2,Chez moi,0,00:00:00,rarement,1,correct,pas mal,Moyennement satisfait,Moyennement satisfait,pas mal,Stresse,semestre_Valide,0,0,0,0,1,0,1,0,0,0,0,1,1
