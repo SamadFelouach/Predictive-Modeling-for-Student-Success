@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="">
+		<meta charset="utf-8">
+  <title>Overview - ENSAH Prediction</title>
+  <link href="../static/css/main.css" rel="stylesheet" type="text/css" /> 
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+  
+</head>
+
+<body>
+  <div class="navbar">
+   <ul>
+      <li><a class="logo" href="http://127.0.0.1:5000/">ENSAH PREDICTION</a></li>
+      <li><a href="http://127.0.0.1:5000/chart" class="home">Overview</a></li>
+      <li><a href="http://127.0.0.1:5000/prediction">Predict</a></li>
+      <li><a href="#">About</a></li>
+
+      <li><a class="contact" href="#about">Contact Us</a></li>
+    </ul>
+  </div>
+
+<!-- <div id="circle"></div>
+<div id="circle1"></div>
+<div id="circle2"></div>
+<div id="circle4"></div>
+<div id="circle3"></div> -->
+
+ <div id={{ chartID|safe }} class="chart" style="height: 500px; width: 500px"></div>
+		<script>
+			var chart_id = {{ chartID|safe }}
+			var series = {{ series|safe }}
+			var title = {{ title|safe }}
+			var xAxis = {{ xAxis|safe }}
+			var yAxis = {{ yAxis|safe }}
+			var chart = {{ chart|safe }}
+		</script>
+		<div id={{ chart2|safe }} class="chart" style="height: 500px; width: 500px"></div>
+		<script>
+			var chart_id = {{ chart2|safe }}
+			var series = {{ series|safe }}
+			var title = {{ title|safe }}
+			var xAxis = {{ xAxis|safe }}
+			var yAxis = {{ yAxis|safe }}
+			var chart = {{ chart|safe }}
+		</script>
+			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+			<script src="../static/js/highcharts.js"></script>
+			<script src="../static/js/main.js"></script>
+  
+
+
+  
+<div class="footer">
+  <p>GI2 ENSAH 2020 © Made With A Big 💝 Heart </p>
+</div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>Prediction - ENSAH Prediction</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+  
+</head>
+
+<body>
+  <div class="navbar">
+   <ul>
+      <li><a class="logo" href="http://127.0.0.1:5000/">ENSAH PREDICTION</a></li>
+      <li><a href="http://127.0.0.1:5000/chart" class="home">Overview</a></li>
+      <li><a href="http://127.0.0.1:5000/prediction">Predict</a></li>
+      <li><a href="#">About</a></li>
+
+      <li><a class="contact" href="#about">Contact Us</a></li>
+    </ul>
+  </div>
+
+
+ <div class="login">
+  <h1>Predict Degree Of Success</h1>
+
+<div class="container"> 
+
+  <form method="Get">
+        <div class="l1"> <input id="input" type="text" name="experience" placeholder="Vous faite du sport?" required="required" /></div>
+        <div class="l2"><input id="input" type="text" name="test_score" placeholder="Actif réseaux sociaux?" required="required" /></div>
+    <div class="l3"><input id="input" type="text" name="interview_score" placeholder="Interne/Externe ?" required="required" /></div>
+
+
+    </form>
+  <form id="form1" action="{{ url_for('predict')}}"method="post">
+     <div class="l1"> <input id="input" type="text" name="experience" placeholder="Vous étudiez au café?" required="required" /></div>
+        <div class="l2"><input id="input" type="text" name="test_score" placeholder="Vous participer au parascolaire ?" required="required" /></div>
+    <div class="l3"><input id="input" type="text" name="interview_score" placeholder="A quelle heure vous dormez?" required="required" /></div>
+
+        <button type="submit" id="left2" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+      
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+</div>
+     <!-- Main Input For Receiving Query to our ML -->
+    
+ </div>
+
+
+
+<div class="footer1">
+  <p>GI2 ENSAH 2020 © Made With A Big 💝 Heart </p>
+</div>
+
+<div id="circle"></div>
+<div id="circle1"></div>
+<div id="circle2"></div>
+<div id="circle4"></div>
+<div id="circle3"></div>
+
+</body>
+</html>

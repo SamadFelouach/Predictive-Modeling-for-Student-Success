@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ENSAH Prediction</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+  
+</head>
+
+<body>
+  <div class="navbar">
+    <ul>
+      <li><a class="logo" href="http://127.0.0.1:5000/">ENSAH PREDICTION</a></li>
+      <li><a href="http://127.0.0.1:5000/chart" class="home">Overview</a></li>
+      <li><a href="http://127.0.0.1:5000/prediction">Predict</a></li>
+      <li><a href="#">About</a></li>
+
+      <li><a class="contact" href="#about">Contact Us</a></li>
+    </ul>
+  </div>
+
+
+ 
+  <div class="box">
+    <div class="title">
+      <p>A New Tool For ENSA-Hoceima Students To Analyze Their Practical Data To Predict The Degree Of Success And Assess Their Level</p>
+    </div>
+    <div><form method="post">
+    <input type="text" class="right" name="CIN" placeholder="Enter Your CNE" required="required" />
+    <button type="submit" class="left"><a>Predict</a></button>
+    </form>
+    </div>
+  </div>
+
+
+  <div class="wrapper">
+  <div class="wave" height="100%" width="100%">
+   
+  </div>
+    
+</div>
+<div class="footer">
+  <p>GI2 ENSAH 2020 © Made With A Big 💝 Heart </p>
+</div>
+
+<div id="circle"></div>
+<div id="circle1"></div>
+<div id="circle2"></div>
+<div id="circle4"></div>
+<div id="circle3"></div>
+
+</body>
+</html>
